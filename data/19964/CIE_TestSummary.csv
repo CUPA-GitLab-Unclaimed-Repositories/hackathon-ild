@@ -1,0 +1,940 @@
+SessionID,AssessmentCode,ComponentID,SessionName,AssessmentLabel,ContainsOptionalQuestions,NumberOfQuestionPapers,NumberOfSections,NumberOfQuestions,NumberOfQuestionParts,CronbachAlpha,BackhouseP,PercentageOfCandidates,UpdateType,LastUpdateDate
+19964,0408,21,November 2024,World Literature | Unseen Poetry 21,,1,,1,2,0.89830627,,100.00,1,28MAR2025:03:10:16.887
+19964,0408,22,November 2024,World Literature | Unseen Poetry 22,,1,,1,2,0.76698010,,100.00,1,28MAR2025:03:10:16.887
+19964,0408,23,November 2024,World Literature | Unseen Poetry 23,,1,,1,2,0.90027944,,98.25,1,28MAR2025:03:10:16.887
+19964,0408,31,November 2024,World Literature | Set Text 31,1,1,,12,12,,0.78000000,100.00,1,28MAR2025:03:10:16.887
+19964,0408,32,November 2024,World Literature | Set Text 32,1,1,,12,12,,0.78000000,100.00,1,28MAR2025:03:10:16.887
+19964,0408,33,November 2024,World Literature | Set Text 33,1,1,,12,12,,0.86000000,99.12,1,28MAR2025:03:10:16.887
+19964,0409,01,November 2024,American History (US) | Making Of A Nation,1,1,,12,36,,0.78000000,70.37,1,28MAR2025:03:10:16.887
+19964,0409,02,November 2024,American History (US) | Depth Study,1,1,,20,20,,0.80000000,75.00,1,28MAR2025:03:10:16.887
+19964,0410,11,November 2024,Music | Listening 11,1,1,,38,51,,0.92000000,98.96,1,28MAR2025:03:10:16.887
+19964,0410,12,November 2024,Music | Listening 12,1,1,,38,51,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,0410,13,November 2024,Music | Listening 13,1,1,,38,52,,0.91000000,100.00,1,28MAR2025:03:10:16.887
+19964,0411,11,November 2024,Drama | Written Paper 11,1,1,,11,11,,0.88000000,99.30,1,28MAR2025:03:10:16.887
+19964,0411,12,November 2024,Drama | Written Paper 12,1,1,,11,11,,0.86000000,98.36,1,28MAR2025:03:10:16.887
+19964,0411,13,November 2024,Drama | Written Paper 13,1,1,,11,11,,0.88000000,100.00,1,28MAR2025:03:10:16.887
+19964,0413,11,November 2024,Physical Education | Theory 11,,1,,12,33,0.90706270,,98.54,1,28MAR2025:03:10:16.887
+19964,0413,12,November 2024,Physical Education | Theory 12,,1,,14,31,0.93284447,,99.74,1,28MAR2025:03:10:16.887
+19964,0413,13,November 2024,Physical Education | Theory 13,,1,,14,30,0.87588517,,98.63,1,28MAR2025:03:10:16.887
+19964,0417,11,November 2024,Information and Communication Technology | Theory 11,,1,,13,27,0.87777824,,98.51,1,28MAR2025:03:15:30.017
+19964,0417,12,November 2024,Information and Communication Technology | Theory 12,,1,,12,27,0.90114169,,99.30,1,28MAR2025:03:15:35.827
+19964,0417,13,November 2024,Information and Communication Technology | Theory 13,,1,,10,27,0.85275539,,99.08,1,28MAR2025:03:10:16.887
+19964,0445,31,November 2024,Design and Technology | Resistant Materials 31,1,1,,13,40,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,0445,32,November 2024,Design and Technology | Resistant Materials 32,1,1,,13,44,,0.76000000,98.09,1,28MAR2025:03:10:16.887
+19964,0445,33,November 2024,Design and Technology | Resistant Materials 33,1,1,,13,40,,0.79000000,99.15,1,28MAR2025:03:10:16.887
+19964,0445,41,November 2024,Design and Technology | Systems and Control 41,1,1,,11,47,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,0445,42,November 2024,Design and Technology | Systems and Control 42,1,1,,11,47,,0.79000000,100.00,1,28MAR2025:03:10:16.887
+19964,0445,43,November 2024,Design and Technology | Systems and Control 43,1,1,,11,47,,0.48000000,100.00,1,28MAR2025:03:10:16.887
+19964,0450,11,November 2024,Business Studies | Short Answer/Data Response 11,,1,,4,20,0.87046058,,99.16,1,28MAR2025:03:10:16.887
+19964,0450,12,November 2024,Business Studies | Short Answer/Data Response 12,,1,,4,20,0.91422593,,98.67,1,28MAR2025:03:10:16.887
+19964,0450,13,November 2024,Business Studies | Short Answer/Data Response 13,,1,,4,20,0.87732943,,99.27,1,28MAR2025:03:10:16.887
+19964,0450,21,November 2024,Business Studies | Case Study 21,,1,,4,8,0.79826970,,99.07,1,28MAR2025:03:10:16.887
+19964,0450,22,November 2024,Business Studies | Case Study 22,,1,,4,8,0.86083133,,98.55,1,28MAR2025:03:10:16.887
+19964,0450,23,November 2024,Business Studies | Case Study 23,,1,,4,8,0.80654239,,99.76,1,28MAR2025:03:10:16.887
+19964,0450,50,November 2024,Business Studies | Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,0452,21,November 2024,Accounting | Paper 21,,1,,5,20,0.87389517,,100.00,1,28MAR2025:03:10:16.887
+19964,0452,22,November 2024,Accounting | Paper 22,,1,,5,28,0.90584091,,98.88,1,28MAR2025:03:10:16.887
+19964,0452,23,November 2024,Accounting | Paper 23,,1,,5,20,0.92684356,,99.48,1,28MAR2025:03:15:55.843
+19964,0454,11,November 2024,Enterprise | Case Study 11,,1,,7,21,0.82095292,,98.11,1,28MAR2025:03:10:16.887
+19964,0454,12,November 2024,Enterprise | Case Study 12,,1,,7,22,0.78820374,,98.71,1,28MAR2025:03:10:16.887
+19964,0454,13,November 2024,Enterprise | Case Study 13,,1,,7,22,0.89986696,,100.00,1,28MAR2025:03:10:16.887
+19964,0455,21,November 2024,Economics | Structured Questions 21,1,1,,5,24,,0.90000000,100.00,1,28MAR2025:03:10:16.887
+19964,0455,22,November 2024,Economics | Structured Questions 22,1,1,,5,24,,0.92000000,98.37,1,28MAR2025:03:10:16.887
+19964,0455,23,November 2024,Economics | Structured Questions 23,1,1,,5,24,,0.92000000,98.39,1,28MAR2025:03:10:16.887
+19964,0457,02,November 2024,Global Perspectives | Individual Report,,1,,3,9,0.77242711,,98.48,1,28MAR2025:03:10:16.887
+19964,0457,11,November 2024,Global Perspectives | Written Paper 11,,1,,4,11,0.68046819,,98.40,1,28MAR2025:03:10:16.887
+19964,0457,12,November 2024,Global Perspectives | Written Paper 12,,1,,4,10,0.67832654,,98.66,1,28MAR2025:03:10:16.887
+19964,0457,13,November 2024,Global Perspectives | Written Paper 13,,1,,4,11,0.70061742,,97.15,1,28MAR2025:03:10:16.887
+19964,0460,11,November 2024,Geography | Geographical Themes 11,1,1,,6,42,,0.83000000,99.79,1,28MAR2025:03:10:16.887
+19964,0460,12,November 2024,Geography | Geographical Themes 12,1,1,,6,42,,0.84000000,98.90,1,28MAR2025:03:10:16.887
+19964,0460,13,November 2024,Geography | Geographical Themes 13,1,1,,6,42,,0.87000000,98.93,1,28MAR2025:03:10:16.887
+19964,0460,21,November 2024,Geography | Geographical Skills 21,,1,,6,33,0.81923912,,99.58,1,28MAR2025:03:10:16.887
+19964,0460,22,November 2024,Geography | Geographical Skills 22,,1,,6,33,0.83872038,,99.33,1,28MAR2025:03:10:16.887
+19964,0460,23,November 2024,Geography | Geographical Skills 23,,1,,6,31,0.84813000,,98.93,1,28MAR2025:03:10:16.887
+19964,0460,41,November 2024,Geography | Alternative to Coursework 41,,1,,2,27,0.84619145,,99.75,1,28MAR2025:03:10:16.887
+19964,0460,42,November 2024,Geography | Alternative to Coursework 42,,1,,2,26,0.86111734,,99.14,1,28MAR2025:03:10:16.887
+19964,0460,43,November 2024,Geography | Alternative to Coursework 43,,1,,2,26,0.86272652,,96.23,1,28MAR2025:03:10:16.887
+19964,0470,11,November 2024,History | Structured Questions 11,1,1,,18,54,,0.87000000,98.91,1,28MAR2025:03:10:16.887
+19964,0470,12,November 2024,History | Structured Questions 12,1,1,,18,54,,0.88000000,99.56,1,28MAR2025:03:10:16.887
+19964,0470,13,November 2024,History | Structured Questions 13,1,1,,18,54,,0.89000000,98.33,1,28MAR2025:03:10:16.887
+19964,0470,21,November 2024,History | Document Questions 21,1,1,,2,10,,0.67000000,98.93,1,28MAR2025:03:10:16.887
+19964,0470,22,November 2024,History | Document Questions 22,1,1,,2,10,,0.74000000,98.68,1,28MAR2025:03:10:16.887
+19964,0470,23,November 2024,History | Document Questions 23,1,1,,2,10,,0.71000000,97.96,1,28MAR2025:03:10:16.887
+19964,0470,41,November 2024,History | Alternative to Coursework 41,1,1,,10,20,,0.71000000,98.87,1,28MAR2025:03:10:16.887
+19964,0470,42,November 2024,History | Alternative to Coursework 42,1,1,,10,20,,0.73000000,99.54,1,28MAR2025:03:10:16.887
+19964,0470,43,November 2024,History | Alternative to Coursework 43,1,1,,10,20,,0.76000000,98.09,1,28MAR2025:03:10:16.887
+19964,0471,11,November 2024,Travel and Tourism | Key Terms and Concepts 11,,1,,4,20,0.78423082,,100.00,1,28MAR2025:03:10:16.887
+19964,0471,12,November 2024,Travel and Tourism | Key Terms and Concepts 12,,1,,4,20,0.85018229,,97.77,1,28MAR2025:03:10:16.887
+19964,0471,13,November 2024,Travel and Tourism | Key Terms and Concepts 13,,1,,4,20,0.87660882,,100.00,1,28MAR2025:03:10:16.887
+19964,0471,21,November 2024,Travel and Tourism | Managing and Marketing Destinations 21,,1,,4,17,0.61871759,,100.00,1,28MAR2025:03:10:16.887
+19964,0471,22,November 2024,Travel and Tourism | Managing and Marketing Destinations 22,,1,,4,16,0.78347718,,97.61,1,28MAR2025:03:10:16.887
+19964,0471,23,November 2024,Travel and Tourism | Managing and Marketing Destinations 23,,1,,4,17,0.83112648,,100.00,1,28MAR2025:03:10:16.887
+19964,0475,11,November 2024,Literature in English | Poetry and Prose 11,1,1,,22,22,,0.82000000,99.25,1,28MAR2025:03:10:16.887
+19964,0475,12,November 2024,Literature in English | Poetry and Prose 12,1,1,,22,22,,0.79000000,99.45,1,28MAR2025:03:10:16.887
+19964,0475,13,November 2024,Literature in English | Poetry and Prose 13,1,1,,22,22,,0.80000000,99.19,1,28MAR2025:03:10:16.887
+19964,0475,21,November 2024,Literature in English | Drama 21,1,1,,10,10,,0.66000000,100.00,1,28MAR2025:03:10:16.887
+19964,0475,22,November 2024,Literature in English | Drama 22,1,1,,10,10,,0.72000000,99.50,1,28MAR2025:03:10:16.887
+19964,0475,23,November 2024,Literature in English | Drama 23,1,1,,10,10,,0.71000000,98.77,1,28MAR2025:03:10:16.887
+19964,0475,31,November 2024,Literature in English | Drama (Open Text) 31,1,1,,10,10,,,99.50,1,28MAR2025:03:10:16.887
+19964,0475,32,November 2024,Literature in English | Drama (Open Text) 32,1,1,,10,10,,,99.32,1,28MAR2025:03:10:16.887
+19964,0475,33,November 2024,Literature in English | Drama (Open Text) 33,1,1,,10,10,,,98.71,1,28MAR2025:03:10:16.887
+19964,0475,41,November 2024,Literature in English | Unseen 41,1,1,,2,2,,,99.40,1,28MAR2025:03:10:16.887
+19964,0475,42,November 2024,Literature in English | Unseen 42,1,1,,2,2,,,99.23,1,28MAR2025:03:10:16.887
+19964,0475,43,November 2024,Literature in English | Unseen 43,1,1,,2,2,,,98.85,1,28MAR2025:03:10:16.887
+19964,0478,11,November 2024,Computer Science | Paper 11 Computer Systems,,1,,9,34,0.92568662,,98.52,1,28MAR2025:03:10:16.887
+19964,0478,12,November 2024,Computer Science | Paper 12 Computer Systems,,1,,8,34,0.89814607,,98.95,1,28MAR2025:03:10:16.887
+19964,0478,13,November 2024,Computer Science | Paper 13 Computer Systems,,1,,7,30,0.92888798,,98.62,1,28MAR2025:03:10:16.887
+19964,0478,21,November 2024,"Computer Science | Paper 21 Algorithms, Programming and Logic",,1,,11,23,0.87887077,,99.51,1,28MAR2025:03:10:16.887
+19964,0478,22,November 2024,"Computer Science | Paper 22 Algorithms, Programming and Logic",,1,,12,21,0.85461881,,98.91,1,28MAR2025:03:10:16.887
+19964,0478,23,November 2024,"Computer Science | Paper 23 Algorithms, Programming and Logic",,1,,12,17,0.86342101,,98.62,1,28MAR2025:03:10:16.887
+19964,0488,01,November 2024,Literature (Spanish) | Set Texts - Open Books 01,1,1,,24,24,,0.73000000,99.18,1,28MAR2025:03:10:16.887
+19964,0490,12,November 2024,Religious Studies | Paper 12,1,1,,6,24,,0.89000000,97.77,1,28MAR2025:03:10:16.887
+19964,0490,13,November 2024,Religious Studies | Paper 13,1,1,,6,24,,0.93000000,99.37,1,28MAR2025:03:10:16.887
+19964,0490,22,November 2024,Religious Studies | Paper 22,1,1,,9,27,,0.93000000,97.67,1,28MAR2025:03:10:16.887
+19964,0490,23,November 2024,Religious Studies | Paper 23,1,1,,9,27,,0.92000000,98.73,1,28MAR2025:03:10:16.887
+19964,0493,11,November 2024,Islamiyat | Paper 11,1,1,,5,10,,0.84000000,97.61,1,28MAR2025:03:10:16.887
+19964,0493,12,November 2024,Islamiyat | Paper 12,1,1,,5,10,,0.81000000,98.37,1,28MAR2025:03:10:16.887
+19964,0493,21,November 2024,Islamiyat | Paper 21,1,1,,5,10,,0.86000000,97.61,1,28MAR2025:03:10:16.887
+19964,0493,22,November 2024,Islamiyat | Paper 22,1,1,,5,10,,0.82000000,94.65,1,28MAR2025:03:10:16.887
+19964,0495,11,November 2024,Sociology | Paper 11,1,1,,3,17,,0.80000000,100.00,1,28MAR2025:03:10:16.887
+19964,0495,12,November 2024,Sociology | Paper 12,1,1,,3,17,,0.86000000,95.30,1,28MAR2025:03:10:16.887
+19964,0495,13,November 2024,Sociology | Paper 13,1,1,,3,17,,0.87000000,95.12,1,28MAR2025:03:10:16.887
+19964,0495,21,November 2024,Sociology | Paper 21,1,1,,4,20,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,0495,22,November 2024,Sociology | Paper 22,1,1,,4,20,,0.87000000,95.30,1,28MAR2025:03:10:16.887
+19964,0495,23,November 2024,Sociology | Paper 23,1,1,,4,20,,0.86000000,97.56,1,28MAR2025:03:10:16.887
+19964,0500,11,November 2024,First Language English (Oral Endorsement) | Reading 11,,1,,3,20,0.79970731,,99.39,1,28MAR2025:03:10:16.887
+19964,0500,12,November 2024,First Language English (Oral Endorsement) | Reading 12,,1,,3,20,0.79599343,,99.20,1,28MAR2025:03:10:16.887
+19964,0500,13,November 2024,First Language English (Oral Endorsement) | Reading 13,,1,,3,20,0.82769740,,98.73,1,28MAR2025:03:10:16.887
+19964,0500,21,November 2024,First Language English (Oral Endorsement) | Directed Writing & Comp 21,1,1,,5,10,,0.86000000,99.26,1,28MAR2025:03:10:16.887
+19964,0500,22,November 2024,First Language English (Oral Endorsement) | Directed Writing & Comp 22,1,1,,5,10,,0.84000000,99.14,1,28MAR2025:03:10:16.887
+19964,0500,23,November 2024,First Language English (Oral Endorsement) | Directed Writing & Comp 23,1,1,,5,10,,0.87000000,98.53,1,28MAR2025:03:10:16.887
+19964,0502,11,November 2024,First Language Spanish | Reading Paper 11,,1,,4,20,0.69564101,,98.90,1,28MAR2025:03:10:16.887
+19964,0502,12,November 2024,First Language Spanish | Reading Paper 12,,1,,4,20,0.75200555,,96.15,1,28MAR2025:03:10:16.887
+19964,0502,21,November 2024,First Language Spanish | Directed Writing and Composition Paper 21,1,1,,5,10,,0.74000000,99.16,1,28MAR2025:03:10:16.887
+19964,0502,22,November 2024,First Language Spanish | Directed Writing and Composition Paper 22,1,1,,5,10,,,96.15,1,28MAR2025:03:10:16.887
+19964,0508,01,November 2024,First Language Arabic | Reading,,1,,2,14,0.75345080,,96.50,1,28MAR2025:03:10:16.887
+19964,0508,02,November 2024,First Language Arabic | Writing,1,1,,8,16,,0.91000000,96.79,1,28MAR2025:03:10:16.887
+19964,0510,11,November 2024,English as a Second Language (Speaking Endorsement) | Reading and Writing 11,,1,,17,27,0.84705897,,98.00,1,28MAR2025:03:10:16.887
+19964,0510,12,November 2024,English as a Second Language (Speaking Endorsement) | Reading and Writing 12,,1,,17,27,0.90326962,,98.95,1,28MAR2025:03:10:16.887
+19964,0510,13,November 2024,English as a Second Language (Speaking Endorsement) | Reading and Writing 13,,1,,17,27,0.83214254,,85.71,1,28MAR2025:03:10:16.887
+19964,0511,11,November 2024,English as a Second Language (Count-in Speaking) | Reading and Writing 11,,1,,17,27,0.84687717,,98.43,1,28MAR2025:03:10:16.887
+19964,0511,12,November 2024,English as a Second Language (Count-in Speaking) | Reading and Writing 12,,1,,17,27,0.90801572,,98.19,1,28MAR2025:03:10:16.887
+19964,0511,13,November 2024,English as a Second Language (Count-in Speaking) | Reading and Writing 13,,1,,17,27,0.84944786,,98.48,1,28MAR2025:03:10:16.887
+19964,0520,21,November 2024,Foreign Language French | Reading 21,,1,,6,45,0.90138812,,98.97,1,28MAR2025:03:10:16.887
+19964,0520,22,November 2024,Foreign Language French | Reading 22,,1,,6,45,0.92548012,,98.52,1,28MAR2025:03:10:16.887
+19964,0520,23,November 2024,Foreign Language French | Reading 23,,1,,6,45,0.90478593,,100.00,1,28MAR2025:03:10:16.887
+19964,0520,41,November 2024,Foreign Language French | Writing 41,1,1,,4,8,,0.89000000,99.32,1,28MAR2025:03:10:16.887
+19964,0520,42,November 2024,Foreign Language French | Writing 42,1,1,,4,8,,0.92000000,98.33,1,28MAR2025:03:10:16.887
+19964,0520,43,November 2024,Foreign Language French | Writing 43,1,1,,4,8,,0.87000000,100.00,1,28MAR2025:03:10:16.887
+19964,0520,50,November 2024,Foreign Language French | Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,0525,22,November 2024,Foreign Language German | Reading 22,,1,,6,45,0.89214639,,98.61,1,28MAR2025:03:10:16.887
+19964,0525,42,November 2024,Foreign Language German | Writing 42,1,1,,4,8,,0.89000000,98.61,1,28MAR2025:03:10:16.887
+19964,0530,21,November 2024,Foreign Language Spanish | Reading 21,,1,,6,45,0.93565382,,95.70,1,28MAR2025:03:10:16.887
+19964,0530,22,November 2024,Foreign Language Spanish | Reading 22,,1,,6,45,0.93488257,,98.53,1,28MAR2025:03:10:16.887
+19964,0530,23,November 2024,Foreign Language Spanish | Reading 23,,1,,6,45,0.94695705,,97.59,1,28MAR2025:03:10:16.887
+19964,0530,41,November 2024,Foreign Language Spanish | Writing 41,1,1,,4,8,,0.89000000,95.97,1,28MAR2025:03:10:16.887
+19964,0530,42,November 2024,Foreign Language Spanish | Writing 42,1,1,,4,8,,0.91000000,98.53,1,28MAR2025:03:10:16.887
+19964,0530,43,November 2024,Foreign Language Spanish | Writing 43,1,1,,4,8,,0.91000000,98.80,1,28MAR2025:03:10:16.887
+19964,0531,01,November 2024,IsiZulu as a Second Language | Reading and Writing,,1,,21,31,0.85629697,,99.66,1,28MAR2025:03:10:16.887
+19964,0531,02,November 2024,IsiZulu as a Second Language | Listening,,1,,21,28,0.87187661,,99.66,1,28MAR2025:03:10:16.887
+19964,0548,01,November 2024,AFRIKAANS AS A SECOND LANGUAGE | Reading and Writing,,1,,20,31,0.90548930,,98.50,1,28MAR2025:03:10:16.887
+19964,0548,02,November 2024,AFRIKAANS AS A SECOND LANGUAGE | Listening,,1,,23,26,0.90674892,,98.50,1,28MAR2025:03:10:16.887
+19964,0549,01,November 2024,Hindi as a Second Language | Paper 1,,1,,22,25,0.77346996,,99.78,1,28MAR2025:03:10:16.887
+19964,0549,02,November 2024,Hindi as a Second Language | Paper 2,,1,,23,30,0.74843118,,99.78,1,28MAR2025:03:10:16.887
+19964,0580,11,November 2024,Mathematics (Without Coursework) | Paper 11 (Core),,1,,24,33,0.85500759,,98.64,1,28MAR2025:03:10:16.887
+19964,0580,12,November 2024,Mathematics (Without Coursework) | Paper 12 (Core),,1,,22,33,0.89711655,,98.54,1,28MAR2025:03:10:16.887
+19964,0580,13,November 2024,Mathematics (Without Coursework) | Paper 13 (Core),,1,,24,35,0.87905483,,97.06,1,28MAR2025:03:10:16.887
+19964,0580,21,November 2024,Mathematics (Without Coursework) | Paper 21 (Extended),,1,,23,33,0.89600673,,98.89,1,28MAR2025:03:10:16.887
+19964,0580,22,November 2024,Mathematics (Without Coursework) | Paper 22 (Extended),,1,,23,31,0.92658009,,98.83,1,28MAR2025:03:10:16.887
+19964,0580,23,November 2024,Mathematics (Without Coursework) | Paper 23 (Extended),,1,,26,35,0.92481968,,98.75,1,28MAR2025:03:10:16.887
+19964,0580,31,November 2024,Mathematics (Without Coursework) | Paper 31 (Core),,1,,10,60,0.92903512,,98.72,1,28MAR2025:03:10:16.887
+19964,0580,32,November 2024,Mathematics (Without Coursework) | Paper 32 (Core),,1,,9,56,0.94775963,,98.00,1,28MAR2025:03:14:58.530
+19964,0580,33,November 2024,Mathematics (Without Coursework) | Paper 33 (Core),,1,,9,57,0.92226874,,97.27,1,28MAR2025:03:10:16.887
+19964,0580,41,November 2024,Mathematics (Without Coursework) | Paper 41 (Extended),,1,,10,47,0.94318942,,98.84,1,28MAR2025:03:10:16.887
+19964,0580,42,November 2024,Mathematics (Without Coursework) | Paper 42 (Extended),,1,,10,55,0.96283991,,98.51,1,28MAR2025:03:10:16.887
+19964,0580,43,November 2024,Mathematics (Without Coursework) | Paper 43 (Extended),,1,,12,52,0.96155233,,99.10,1,28MAR2025:03:10:16.887
+19964,0580,50,November 2024,Mathematics (Without Coursework) | Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,0600,11,November 2024,AGRICULTURE | Written Paper 11,1,1,,14,49,,0.89000000,99.55,1,28MAR2025:03:10:16.887
+19964,0600,12,November 2024,AGRICULTURE | Written Paper 12,1,1,,14,45,,0.97000000,100.00,1,28MAR2025:03:10:16.887
+19964,0606,11,November 2024,ADDITIONAL MATHEMATICS | Paper 11,,1,,12,18,0.87012724,,100.00,1,28MAR2025:03:10:16.887
+19964,0606,12,November 2024,ADDITIONAL MATHEMATICS | Paper 12,,1,,10,23,0.94254866,,98.52,1,28MAR2025:03:10:16.887
+19964,0606,13,November 2024,ADDITIONAL MATHEMATICS | Paper 13,,1,,11,25,0.93832209,,99.52,1,28MAR2025:03:10:16.887
+19964,0606,21,November 2024,ADDITIONAL MATHEMATICS | Paper 21,,1,,12,26,0.82906220,,100.00,1,28MAR2025:03:10:16.887
+19964,0606,22,November 2024,ADDITIONAL MATHEMATICS | Paper 22,,1,,12,25,0.93860855,,98.57,1,28MAR2025:03:10:16.887
+19964,0606,23,November 2024,ADDITIONAL MATHEMATICS | Paper 23,,1,,12,26,0.94245520,,99.37,1,28MAR2025:03:10:16.887
+19964,0607,11,November 2024,Cambridge International Mathematics | Paper 11 (Core),,1,,24,25,0.80685803,,98.76,1,28MAR2025:03:10:16.887
+19964,0607,12,November 2024,Cambridge International Mathematics | Paper 12 (Core),,1,,21,25,0.85970627,,100.00,1,28MAR2025:03:10:16.887
+19964,0607,13,November 2024,Cambridge International Mathematics | Paper 13 (Core),,1,,21,25,0.81368068,,93.24,1,28MAR2025:03:10:16.887
+19964,0607,21,November 2024,Cambridge International Mathematics | Paper 21 (Extended),,1,,14,22,0.89365292,,99.69,1,28MAR2025:03:10:16.887
+19964,0607,22,November 2024,Cambridge International Mathematics | Paper 22 (Extended),,1,,18,22,0.86340115,,99.57,1,28MAR2025:03:10:16.887
+19964,0607,23,November 2024,Cambridge International Mathematics | Paper 23 (Extended),,1,,15,22,0.86056747,,97.83,1,28MAR2025:03:10:16.887
+19964,0607,31,November 2024,Cambridge International Mathematics | Paper 31 (Core),,1,,11,48,0.92355655,,98.14,1,28MAR2025:03:10:16.887
+19964,0607,32,November 2024,Cambridge International Mathematics | Paper 32 (Core),,1,,12,45,0.92482427,,100.00,1,28MAR2025:03:10:16.887
+19964,0607,33,November 2024,Cambridge International Mathematics | Paper 33 (Core),,1,,12,45,0.91777650,,93.24,1,28MAR2025:03:10:16.887
+19964,0607,41,November 2024,Cambridge International Mathematics | Paper 41 (Extended),,1,,12,53,0.95245890,,99.54,1,28MAR2025:03:10:16.887
+19964,0607,42,November 2024,Cambridge International Mathematics | Paper 42 (Extended),,1,,11,51,0.93494844,,99.67,1,28MAR2025:03:10:16.887
+19964,0607,43,November 2024,Cambridge International Mathematics | Paper 43 (Extended),,1,,11,49,0.93979994,,97.01,1,28MAR2025:03:10:16.887
+19964,0607,51,November 2024,Cambridge International Mathematics | Paper 51 (Core),,1,,2,17,0.84222727,,98.76,1,28MAR2025:03:10:16.887
+19964,0607,52,November 2024,Cambridge International Mathematics | Paper 52 (Core),,1,,4,14,0.68857230,,100.00,1,28MAR2025:03:10:16.887
+19964,0607,53,November 2024,Cambridge International Mathematics | Paper 53 (Core),,1,,4,14,0.70050298,,93.24,1,28MAR2025:03:10:16.887
+19964,0607,61,November 2024,Cambridge International Mathematics | Paper 61 (Extended),,1,,7,22,0.92551490,,99.38,1,28MAR2025:03:10:16.887
+19964,0607,62,November 2024,Cambridge International Mathematics | Paper 62 (Extended),,1,,10,27,0.89672451,,99.67,1,28MAR2025:03:10:16.887
+19964,0607,63,November 2024,Cambridge International Mathematics | Paper 63 (Extended),,1,,9,29,0.88876833,,98.10,1,28MAR2025:03:10:16.887
+19964,0610,31,November 2024,Biology | Theory (Core) 31,,1,,8,36,0.88367579,,99.47,1,28MAR2025:03:10:16.887
+19964,0610,32,November 2024,Biology | Theory (Core) 32,,1,,8,42,0.89460520,,96.59,1,28MAR2025:03:10:16.887
+19964,0610,33,November 2024,Biology | Theory (Core) 33,,1,,8,42,0.88805269,,100.00,1,28MAR2025:03:10:16.887
+19964,0610,41,November 2024,Biology | Theory (Extended) 41,,1,,6,29,0.90873892,,99.57,1,28MAR2025:03:10:16.887
+19964,0610,42,November 2024,Biology | Theory (Extended) 42,,1,,6,32,0.91150364,,98.86,1,28MAR2025:03:10:16.887
+19964,0610,43,November 2024,Biology | Theory (Extended) 43,,1,,6,35,0.93164832,,99.45,1,28MAR2025:03:10:16.887
+19964,0610,61,November 2024,Biology | Alternative to Practical 61,,1,,3,19,0.79440901,,99.63,1,28MAR2025:03:10:16.887
+19964,0610,62,November 2024,Biology | Alternative to Practical 62,,1,,2,17,0.84984001,,98.79,1,28MAR2025:03:10:16.887
+19964,0610,63,November 2024,Biology | Alternative to Practical 63,,1,,2,19,0.79385182,,99.41,1,28MAR2025:03:15:02.687
+19964,0618,02,November 2024,French | Reading 02,,1,,6,45,0.89073352,,97.70,1,28MAR2025:03:10:16.887
+19964,0618,04,November 2024,French | Writing 04,1,1,,4,8,,0.91000000,98.35,1,28MAR2025:03:10:16.887
+19964,0620,31,November 2024,Chemistry | Theory (Core) 31,,1,,8,55,0.89994855,,99.00,1,28MAR2025:03:10:16.887
+19964,0620,32,November 2024,Chemistry | Theory (Core) 32,,1,,8,58,0.91127387,,98.62,1,28MAR2025:03:10:16.887
+19964,0620,33,November 2024,Chemistry | Theory (Core) 33,,1,,8,55,0.92799839,,98.53,1,28MAR2025:03:10:16.887
+19964,0620,41,November 2024,Chemistry | Theory (Extended) 41,,1,,6,48,0.91534802,,99.06,1,28MAR2025:03:10:16.887
+19964,0620,42,November 2024,Chemistry | Theory (Extended) 42,,1,,6,50,0.94765599,,99.09,1,28MAR2025:03:10:16.887
+19964,0620,43,November 2024,Chemistry | Theory (Extended) 43,,1,,6,52,0.95402110,,99.12,1,28MAR2025:03:10:16.887
+19964,0620,61,November 2024,Chemistry | Alternative to Practical 61,,1,,4,22,0.81428843,,99.36,1,28MAR2025:03:10:16.887
+19964,0620,62,November 2024,Chemistry | Alternative to Practical 62,,1,,4,22,0.83964257,,98.98,1,28MAR2025:03:10:16.887
+19964,0620,63,November 2024,Chemistry | Alternative to Practical 63,,1,,4,19,0.81679673,,98.97,1,28MAR2025:03:10:16.887
+19964,0625,31,November 2024,Physics | Theory (Core) 31,,1,,11,37,0.84633909,,98.16,1,28MAR2025:03:10:16.887
+19964,0625,32,November 2024,Physics | Theory (Core) 32,,1,,11,41,0.88976213,,99.31,1,28MAR2025:03:10:16.887
+19964,0625,33,November 2024,Physics | Theory (Core) 33,,1,,11,44,0.84523484,,100.00,1,28MAR2025:03:10:16.887
+19964,0625,41,November 2024,Physics | Theory (Extended) 41,,1,,9,43,0.92688829,,98.81,1,28MAR2025:03:10:16.887
+19964,0625,42,November 2024,Physics | Theory (Extended) 42,,1,,11,43,0.94157166,,98.93,1,28MAR2025:03:10:16.887
+19964,0625,43,November 2024,Physics | Theory (Extended) 43,,1,,10,43,0.93793913,,99.21,1,28MAR2025:03:10:16.887
+19964,0625,61,November 2024,Physics | Alternative to Practical 61,,1,,4,21,0.77991290,,98.56,1,28MAR2025:03:10:16.887
+19964,0625,62,November 2024,Physics | Alternative to Practical 62,,1,,4,24,0.85773673,,98.56,1,28MAR2025:03:10:16.887
+19964,0625,63,November 2024,Physics | Alternative to Practical 63,,1,,4,27,0.83423706,,98.92,1,28MAR2025:03:10:16.887
+19964,0648,11,November 2024,Food and Nutrition | Theory 11,1,1,,15,33,,0.87000000,99.72,1,28MAR2025:03:10:16.887
+19964,0648,12,November 2024,Food and Nutrition | Theory 12,1,1,,14,36,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,0648,13,November 2024,Food and Nutrition | Theory 13,1,1,,15,33,,,75.00,1,28MAR2025:03:10:16.887
+19964,0652,31,November 2024,Physical Science | Core Theory 31,,1,,11,57,0.88062499,,99.62,1,28MAR2025:03:10:16.887
+19964,0652,41,November 2024,Physical Science | Extended Theory 41,,1,,10,53,0.91548942,,99.31,1,28MAR2025:03:10:16.887
+19964,0652,61,November 2024,Physical Science | Alternative to Practical 61,,1,,4,23,0.81272098,,99.35,1,28MAR2025:03:10:16.887
+19964,0653,31,November 2024,Combined Science | Core Theory 31,,1,,9,41,0.88547071,,98.97,1,28MAR2025:03:10:16.887
+19964,0653,32,November 2024,Combined Science | Core Theory 32,,1,,9,49,0.90820691,,99.42,1,28MAR2025:03:10:16.887
+19964,0653,33,November 2024,Combined Science | Core Theory 33,,1,,9,49,0.93341591,,96.88,1,28MAR2025:03:10:16.887
+19964,0653,41,November 2024,Combined Science | Extended Theory 41,,1,,9,39,0.95233102,,98.37,1,28MAR2025:03:10:16.887
+19964,0653,42,November 2024,Combined Science | Extended Theory 42,,1,,9,42,0.95987814,,97.74,1,28MAR2025:03:10:16.887
+19964,0653,43,November 2024,Combined Science | Extended Theory 43,,1,,9,40,0.93886316,,98.72,1,28MAR2025:03:10:16.887
+19964,0653,50,November 2024,Combined Science | Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,0653,61,November 2024,Combined Science | Alternative To Practical 61,,1,,4,26,0.84684242,,98.32,1,28MAR2025:03:10:16.887
+19964,0653,62,November 2024,Combined Science | Alternative To Practical 62,,1,,4,22,0.84761293,,97.30,1,28MAR2025:03:10:16.887
+19964,0653,63,November 2024,Combined Science | Alternative To Practical 63,,1,,4,25,0.83312637,,98.22,1,28MAR2025:03:10:16.887
+19964,0654,31,November 2024,Co-ordinated Sciences (Double Award) | Core Theory 31,,1,,12,76,0.92500671,,99.60,1,28MAR2025:03:10:16.887
+19964,0654,32,November 2024,Co-ordinated Sciences (Double Award) | Core Theory 32,,1,,12,80,0.92691127,,97.50,1,28MAR2025:03:10:16.887
+19964,0654,33,November 2024,Co-ordinated Sciences (Double Award) | Core Theory 33,,1,,12,80,0.92908967,,100.00,1,28MAR2025:03:10:16.887
+19964,0654,41,November 2024,Co-ordinated Sciences (Double Award) | Extended Theory 41,,1,,12,59,0.93160935,,99.03,1,28MAR2025:03:10:16.887
+19964,0654,42,November 2024,Co-ordinated Sciences (Double Award) | Extended Theory 42,,1,,12,61,0.96171926,,99.74,1,28MAR2025:03:10:16.887
+19964,0654,43,November 2024,Co-ordinated Sciences (Double Award) | Extended Theory 43,,1,,12,67,0.95543121,,99.55,1,28MAR2025:03:10:16.887
+19964,0654,61,November 2024,Co-ordinated Sciences (Double Award) | Alternative to Practical 61,,1,,7,39,0.86302957,,98.79,1,28MAR2025:03:10:16.887
+19964,0654,62,November 2024,Co-ordinated Sciences (Double Award) | Alternative to Practical 62,,1,,6,37,0.89091024,,99.51,1,28MAR2025:03:10:16.887
+19964,0654,63,November 2024,Co-ordinated Sciences (Double Award) | Alternative to Practical 63,,1,,6,39,0.87584547,,99.52,1,28MAR2025:03:10:16.887
+19964,0680,11,November 2024,Environmental Management | Theory 11,,1,,9,35,0.90068241,,98.52,1,28MAR2025:03:10:16.887
+19964,0680,12,November 2024,Environmental Management | Theory 12,,1,,9,40,0.90563228,,98.77,1,28MAR2025:03:10:16.887
+19964,0680,13,November 2024,Environmental Management | Theory 13,,1,,6,33,0.90188582,,99.22,1,28MAR2025:03:10:16.887
+19964,0680,21,November 2024,Environmental Management | Management in Context 21,,1,,5,46,0.91390481,,98.52,1,28MAR2025:03:10:16.887
+19964,0680,22,November 2024,Environmental Management | Management in Context 22,,1,,4,45,0.91140264,,98.47,1,28MAR2025:03:10:16.887
+19964,0680,23,November 2024,Environmental Management | Management in Context 23,,1,,3,36,0.87192117,,99.22,1,28MAR2025:03:10:16.887
+19964,0697,12,November 2024,Marine Science | Paper 12 Theory and Data Handling,,1,,8,34,0.87906568,,97.73,1,28MAR2025:03:10:16.887
+19964,0697,13,November 2024,Marine Science | Paper 13 Theory and Data Handling,,1,,8,34,0.91211389,,100.00,1,28MAR2025:03:10:16.887
+19964,0697,22,November 2024,Marine Science | Paper 22 Theory and Practical Skills,,1,,6,33,0.90870546,,97.73,1,28MAR2025:03:10:16.887
+19964,0697,23,November 2024,Marine Science | Paper 23 Theory and Practical Skills,,1,,6,33,0.91175708,,100.00,1,28MAR2025:03:10:16.887
+19964,0970,32,November 2024,BIOLOGY | Theory (Core) 32,,1,,8,42,0.91062488,,87.50,1,28MAR2025:03:10:16.887
+19964,0970,42,November 2024,BIOLOGY | Theory (Extended) 42,,1,,6,32,0.93050624,,95.83,1,28MAR2025:03:10:16.887
+19964,0970,62,November 2024,BIOLOGY | Alternative to Practical 62,,1,,2,17,0.86865823,,95.83,1,28MAR2025:03:10:16.887
+19964,0971,32,November 2024,Chemistry | Theory (Core) 32,,1,,8,58,0.88209968,,87.50,1,28MAR2025:03:10:16.887
+19964,0971,42,November 2024,Chemistry | Theory (Extended) 42,,1,,6,50,0.95604903,,96.20,1,28MAR2025:03:10:16.887
+19964,0971,62,November 2024,Chemistry | Alternative to Practical 62,,1,,4,22,0.86267915,,96.13,1,28MAR2025:03:10:16.887
+19964,0972,31,November 2024,Physics | Theory (Core) 31,,1,,11,37,0.92729495,,100.00,1,28MAR2025:03:10:16.887
+19964,0972,41,November 2024,Physics | Theory (Extended) 41,,1,,9,43,0.94745594,,97.15,1,28MAR2025:03:10:16.887
+19964,0972,61,November 2024,Physics | Alternative to Practical 61,,1,,4,21,0.81917003,,97.01,1,28MAR2025:03:10:16.887
+19964,0973,31,November 2024,Co-ordinated Sciences (Double Award) | Core Theory 31,,1,,12,76,,,100.00,1,28MAR2025:03:10:16.887
+19964,0973,41,November 2024,Co-ordinated Sciences (Double Award) | Extended Theory 41,,1,,12,59,0.92945593,,100.00,1,28MAR2025:03:10:16.887
+19964,0973,61,November 2024,Co-ordinated Sciences (Double Award) | Alternative to Practical 61,,1,,7,39,0.78709933,,100.00,1,28MAR2025:03:10:16.887
+19964,0976,12,November 2024,Geography | Geographical Themes 12,1,1,,6,42,,0.89000000,98.55,1,28MAR2025:03:10:16.887
+19964,0976,22,November 2024,Geography | Geographical Skills 22,,1,,6,33,0.89082345,,100.00,1,28MAR2025:03:10:16.887
+19964,0976,42,November 2024,Geography | Alternative to Coursework 42,,1,,2,26,0.87771913,,98.31,1,28MAR2025:03:10:16.887
+19964,0977,11,November 2024,History | Structured Questions 11,1,1,,18,54,,0.91000000,93.10,1,28MAR2025:03:10:16.887
+19964,0977,21,November 2024,History | Document Questions 21,1,1,,2,10,,0.82000000,91.38,1,28MAR2025:03:10:16.887
+19964,0977,41,November 2024,History | Alternative to Coursework 41,1,1,,10,20,,0.48000000,92.31,1,28MAR2025:03:10:16.887
+19964,0979,32,November 2024,Design and Technology | Resistant Materials 32,1,1,,13,44,,0.10000000,100.00,1,28MAR2025:03:10:16.887
+19964,0980,11,November 2024,Mathematics | Paper 11 (Core),,1,,24,33,0.84366270,,82.91,1,28MAR2025:03:10:16.887
+19964,0980,21,November 2024,Mathematics | Paper 21 (Extended),,1,,23,33,0.91806948,,97.38,1,28MAR2025:03:10:16.887
+19964,0980,31,November 2024,Mathematics | Paper 31 (Core),,1,,10,60,0.90776339,,83.76,1,28MAR2025:03:10:16.887
+19964,0980,41,November 2024,Mathematics | Paper 41 (Extended),,1,,10,47,0.95840518,,97.08,1,28MAR2025:03:10:16.887
+19964,0983,11,November 2024,Information and Communication Technology | Theory 11,,1,,13,27,0.90612231,,98.17,1,28MAR2025:03:10:16.887
+19964,0984,12,November 2024,Computer Science | Paper 12 Computer Systems,,1,,8,34,0.90617892,,96.18,1,28MAR2025:03:10:16.887
+19964,0984,22,November 2024,"Computer Science | Paper 22 Algorithms, Programming and Logic",,1,,12,21,0.84506378,,96.10,1,28MAR2025:03:10:16.887
+19964,0985,22,November 2024,Accounting | Paper 22,,1,,5,28,0.93451458,,94.96,1,28MAR2025:03:10:16.887
+19964,0986,11,November 2024,Business Studies | Short Answer/Data Response 11,,1,,4,20,0.89969992,,95.10,1,28MAR2025:03:10:16.887
+19964,0986,21,November 2024,Business Studies | Case Study 21,,1,,4,8,0.83008966,,94.87,1,28MAR2025:03:10:16.887
+19964,0987,22,November 2024,Economics | Structured Questions 22,1,1,,5,24,,0.91000000,97.05,1,28MAR2025:03:10:16.887
+19964,0990,12,November 2024,First Language English | Reading 12,,1,,3,20,0.82203216,,95.87,1,28MAR2025:03:10:16.887
+19964,0990,22,November 2024,First Language English | Directed Writing & Comp 22,1,1,,5,10,,0.89000000,94.19,1,28MAR2025:03:10:16.887
+19964,0991,11,November 2024,English as a Second Language (Count-in Speaking) | Reading and Writing 11,,1,,17,27,0.86465914,,97.50,1,28MAR2025:03:10:16.887
+19964,0992,12,November 2024,Literature in English | Poetry and Prose,1,1,,22,22,,0.71000000,97.14,1,28MAR2025:03:10:16.887
+19964,0992,22,November 2024,Literature in English | Drama,1,1,,10,10,,0.71000000,91.67,1,28MAR2025:03:10:16.887
+19964,0992,32,November 2024,Literature in English | Drama (Open Text),1,1,,10,10,,,95.65,1,28MAR2025:03:10:16.887
+19964,0992,42,November 2024,Literature in English | Unseen,1,1,,2,2,,,95.65,1,28MAR2025:03:10:16.887
+19964,0993,11,November 2024,English as a Second Language (Speaking Endorsement) | Reading and Writing 11,,1,,17,27,0.87375189,,98.58,1,28MAR2025:03:10:16.887
+19964,0994,12,November 2024,Drama | Written Examination 12,1,1,,11,11,,,100.00,1,28MAR2025:03:10:16.887
+19964,0995,11,November 2024,Physical Education | Theory 11,,1,,12,33,0.92578445,,100.00,1,28MAR2025:03:10:16.887
+19964,1120,01,November 2024,English Language (Brunei) | Paper 1 Reading,,1,,3,17,0.75717737,,99.66,1,28MAR2025:03:10:16.887
+19964,1120,02,November 2024,English Language (Brunei) | Paper 2 Writing,1,1,,5,10,,0.85000000,99.68,1,28MAR2025:03:10:16.887
+19964,1123,11,November 2024,English Language | Paper 1 Reading (11),,1,,3,17,0.71240268,,99.02,1,28MAR2025:03:10:16.887
+19964,1123,12,November 2024,English Language | Paper 1 Reading (12),,1,,3,17,0.78564189,,98.28,1,28MAR2025:03:10:16.887
+19964,1123,21,November 2024,English Language | Paper 2 Writing (21),1,1,,5,10,,0.83000000,99.04,1,28MAR2025:03:10:16.887
+19964,1123,22,November 2024,English Language | Paper 2 Writing (22),1,1,,5,10,,0.86000000,97.84,1,28MAR2025:03:10:16.887
+19964,1125,01,November 2024,English Language (Mauritius) | Paper 1 Reading,,1,,3,17,0.76637549,,99.42,1,28MAR2025:03:10:16.887
+19964,1125,02,November 2024,English Language (Mauritius) | Paper 2 Writing,1,1,,5,10,,0.86000000,99.38,1,28MAR2025:03:10:16.887
+19964,1135,01,November 2024,Arabic as a Third Language | Writing,1,1,,5,5,,0.41000000,94.12,1,28MAR2025:03:10:16.887
+19964,1135,02,November 2024,Arabic as a Third Language | Reading Comprehension and Language Usage,,1,,16,18,0.78933381,,94.12,1,28MAR2025:03:10:16.887
+19964,1136,01,November 2024,BAHASA INDONESIA AS A THIRD LANGUAGE | Writing,1,1,,5,5,,0.49000000,100.00,1,28MAR2025:03:10:16.887
+19964,1136,02,November 2024,BAHASA INDONESIA AS A THIRD LANGUAGE | Reading Comprehension and Language Usage,,1,,16,18,0.70998651,,100.00,1,28MAR2025:03:10:16.887
+19964,1158,01,November 2024,English as a Second Language (Count-in Speaking) | Reading and Writing 01,,1,,17,27,0.81732771,,98.31,1,28MAR2025:03:10:16.887
+19964,1184,01,November 2024,English Language (Singapore) | Paper 1 Writing,1,1,,6,11,,0.83000000,99.02,1,28MAR2025:03:15:18.813
+19964,1184,02,November 2024,English Language (Singapore) | Paper 2 Comprehension,,1,,20,29,0.56236968,,99.00,1,28MAR2025:03:10:16.887
+19964,1184,03,November 2024,English Language (Singapore) | Paper 3 Listening,,1,,23,30,0.81499709,,99.00,1,28MAR2025:03:10:16.887
+19964,2010,12,November 2024,Literature in English | Poetry and Prose 12,1,1,,22,22,,0.77000000,99.73,1,28MAR2025:03:10:16.887
+19964,2010,13,November 2024,Literature in English | Poetry and Prose 13,1,1,,22,22,,0.79000000,98.86,1,28MAR2025:03:10:16.887
+19964,2010,22,November 2024,Literature in English | Drama 22,1,1,,10,10,,0.68000000,99.73,1,28MAR2025:03:10:16.887
+19964,2010,23,November 2024,Literature in English | Drama 23,1,1,,10,10,,0.72000000,98.86,1,28MAR2025:03:10:16.887
+19964,2035,12,November 2024,Biblical Studies | The Portrayal of God in the Bible 12,1,1,,5,17,,0.87000000,99.22,1,28MAR2025:03:10:16.887
+19964,2035,22,November 2024,Biblical Studies | The Portrayal of Jesus in the Synoptic Gospels 22,1,1,,5,19,,0.89000000,99.10,1,28MAR2025:03:10:16.887
+19964,2058,11,November 2024,Islamiyat | Paper 11,1,1,,5,10,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,2058,12,November 2024,Islamiyat | Paper 12,1,1,,5,10,,0.80000000,96.92,1,28MAR2025:03:10:16.887
+19964,2058,21,November 2024,Islamiyat | Paper 21,1,1,,5,10,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,2058,22,November 2024,Islamiyat | Paper 22,1,1,,5,10,,0.80000000,95.21,1,28MAR2025:03:10:16.887
+19964,2059,01,November 2024,Pakistan Studies | History and Culture of Pakistan,1,1,,5,16,,0.84000000,97.12,1,28MAR2025:03:10:16.887
+19964,2059,02,November 2024,Pakistan Studies | Environment of Pakistan,1,1,,5,48,,0.89000000,97.21,1,28MAR2025:03:10:16.887
+19964,2065,01,November 2024,Literature in English (Singapore) | Prose and Unseen Texts,1,1,,20,20,,0.76000000,97.79,1,28MAR2025:03:10:16.887
+19964,2065,02,November 2024,Literature in English (Singapore) | Drama (Open Selection),1,1,,15,15,,0.86000000,98.15,1,28MAR2025:03:10:16.887
+19964,2068,12,November 2024,Islamic Studies | History and Scriptures 12,1,1,,6,16,,0.84000000,98.46,1,28MAR2025:03:10:16.887
+19964,2068,13,November 2024,Islamic Studies | History and Scriptures 13,1,1,,6,16,,0.85000000,100.00,1,28MAR2025:03:10:16.887
+19964,2068,22,November 2024,"Islamic Studies | Development, Sources, Beliefs and Observances 22",1,1,,6,16,,0.86000000,97.94,1,28MAR2025:03:10:16.887
+19964,2068,23,November 2024,"Islamic Studies | Development, Sources, Beliefs and Observances 23",1,1,,6,16,,0.84000000,100.00,1,28MAR2025:03:10:16.887
+19964,2147,11,November 2024,History | Structured Questions 11,1,1,,18,54,,0.85000000,99.57,1,28MAR2025:03:10:16.887
+19964,2147,12,November 2024,History | Structured Questions 12,1,1,,18,54,,0.91000000,93.55,1,28MAR2025:03:10:16.887
+19964,2147,21,November 2024,History | Document Questions 21,1,1,,2,10,,0.66000000,99.57,1,28MAR2025:03:10:16.887
+19964,2147,22,November 2024,History | Document Questions 22,1,1,,2,10,,0.72000000,90.32,1,28MAR2025:03:10:16.887
+19964,2162,02,November 2024,History (Mauritius) | International Relations & Developments,,1,,5,5,0.77676207,,92.11,1,28MAR2025:03:10:16.887
+19964,2171,02,November 2024,History (Brunei) | Paper 2,1,1,,7,21,,0.87000000,99.32,1,28MAR2025:03:10:16.887
+19964,2174,01,November 2024,"History (Singapore) | European control in SE Asia, 1870s-1942",1,1,,4,8,,0.64000000,97.45,1,28MAR2025:03:10:16.887
+19964,2174,02,November 2024,"History (Singapore) | Developments in post-WWII World, 1940s-1991",1,1,,4,8,,0.65000000,97.28,1,28MAR2025:03:10:16.887
+19964,2210,12,November 2024,Computer Science | Paper 12 Computer Systems,,1,,8,34,0.91752853,,99.17,1,28MAR2025:03:10:16.887
+19964,2210,13,November 2024,Computer Science | Paper 13 Computer Systems,,1,,7,30,0.90549954,,99.55,1,28MAR2025:03:10:16.887
+19964,2210,22,November 2024,"Computer Science | Paper 22 Algorithms, Programming and Logic",,1,,12,21,0.87689967,,98.99,1,28MAR2025:03:10:16.887
+19964,2210,23,November 2024,"Computer Science | Paper 23 Algorithms, Programming and Logic",,1,,12,17,0.83188752,,99.55,1,28MAR2025:03:10:16.887
+19964,2217,12,November 2024,Geography | Geographical Themes 12,1,1,,6,42,,0.84000000,97.81,1,28MAR2025:03:10:16.887
+19964,2217,22,November 2024,Geography | Geographical Skills 22,,1,,6,33,0.84087427,,98.13,1,28MAR2025:03:10:16.887
+19964,2217,32,November 2024,Geography | Geographical Investigations 32,,1,,2,26,0.86865289,,97.81,1,28MAR2025:03:10:16.887
+19964,2230,01,November 2024,Geography (Brunei) | Geographical Themes,1,1,,6,46,,0.86000000,99.91,1,28MAR2025:03:10:16.887
+19964,2230,02,November 2024,Geography (Brunei) | Geographical Skills,,1,,4,27,0.82881116,,99.91,1,28MAR2025:03:10:16.887
+19964,2236,01,November 2024,Geography (Singapore) | Paper 1,1,1,,3,19,,0.76000000,88.79,1,28MAR2025:03:10:16.887
+19964,2236,02,November 2024,Geography (Singapore) | Paper 2,1,1,,4,20,,0.81000000,87.93,1,28MAR2025:03:10:16.887
+19964,2251,12,November 2024,Sociology | Paper 12,1,1,,3,17,,0.86000000,99.03,1,28MAR2025:03:10:16.887
+19964,2251,22,November 2024,Sociology | Paper 22,1,1,,4,20,,0.85000000,98.97,1,28MAR2025:03:10:16.887
+19964,2260,02,November 2024,"Humanities (Social Studies, Geography) | Paper 2 Geography",1,1,,4,23,,0.76000000,99.43,1,28MAR2025:03:10:16.887
+19964,2261,02,November 2024,"Humanities (Social Studies, History) | Paper 2 History",1,1,,4,8,,0.63000000,99.29,1,28MAR2025:03:10:16.887
+19964,2262,02,November 2024,"Humanities (Social Studies, Literature in English) | Paper 2 Literature in English",1,1,,20,20,,0.75000000,99.15,1,28MAR2025:03:10:16.887
+19964,2272,02,November 2024,"Humanities (Social Studies, Geography) | Geography",1,1,,6,24,,0.63000000,96.67,1,28MAR2025:03:14:44.593
+19964,2273,02,November 2024,"Humanities (Social Studies, History) | History",1,1,,3,9,,0.60000000,95.28,1,28MAR2025:03:10:16.887
+19964,2274,02,November 2024,"Humanities (Social Studies, Literature in English) | Literature in English",1,1,,20,20,,0.70000000,98.08,1,28MAR2025:03:10:16.887
+19964,2279,01,November 2024,Geography (Singapore) | Paper 1,,1,,3,13,0.64295002,,98.96,1,28MAR2025:03:10:16.887
+19964,2279,02,November 2024,Geography (Singapore) | Paper 2,,1,,3,14,0.68215884,,98.96,1,28MAR2025:03:10:16.887
+19964,2281,22,November 2024,Economics | Structured Questions 22,1,1,,5,24,,0.91000000,12.96,1,28MAR2025:03:10:16.887
+19964,2281,23,November 2024,Economics | Structured Questions 23,1,1,,5,24,,0.91000000,100.00,1,28MAR2025:03:10:16.887
+19964,2286,02,November 2024,Economics (Singapore) | Structured Questions,1,1,,5,24,,0.86000000,92.98,1,28MAR2025:03:10:16.887
+19964,2299,01,November 2024,Drama (Singapore) | Written Examination,1,1,,12,12,,0.47000000,100.00,1,28MAR2025:03:10:16.887
+19964,3034,01,November 2024,Spanish (Singapore) | Writing,1,1,,5,9,,0.80000000,96.88,1,28MAR2025:03:10:16.887
+19964,3034,02,November 2024,Spanish (Singapore) | Reading,,1,,41,45,0.86464995,,96.88,1,28MAR2025:03:10:16.887
+19964,3034,03,November 2024,Spanish (Singapore) | Listening,,1,,30,30,0.79374816,,96.88,1,28MAR2025:03:10:16.887
+19964,3158,01,November 2024,Setswana | Language,1,1,,8,19,,0.73000000,99.57,1,28MAR2025:03:10:16.887
+19964,3158,02,November 2024,Setswana | Literature,1,1,,7,10,,0.57000000,99.57,1,28MAR2025:03:10:16.887
+19964,3180,01,November 2024,Arabic | Composition,1,1,,7,7,,0.78000000,98.91,1,28MAR2025:03:10:16.887
+19964,3180,02,November 2024,Arabic | Translation & Reading Comprehension,,1,,12,12,0.76399242,,99.03,1,28MAR2025:03:10:16.887
+19964,3186,01,November 2024,Arabic (Singapore) | Composition,1,1,,7,7,,0.66000000,99.21,1,28MAR2025:03:10:16.887
+19964,3186,02,November 2024,Arabic (Singapore) | Translation & Reading Comprehension,,1,,14,16,0.74562053,,99.21,1,28MAR2025:03:10:16.887
+19964,3194,01,November 2024,Hindi | Composition,1,1,,5,10,,0.87000000,99.20,1,28MAR2025:03:10:16.887
+19964,3194,02,November 2024,Hindi | Language Usage & Comprehension,,1,,43,49,0.89306658,,99.20,1,28MAR2025:03:10:16.887
+19964,3196,01,November 2024,Urdu | Composition,1,1,,5,10,,0.75000000,92.86,1,28MAR2025:03:10:16.887
+19964,3196,02,November 2024,Urdu | Language Usage & Comprehension,,1,,43,49,0.85384147,,92.86,1,28MAR2025:03:10:16.887
+19964,3199,01,November 2024,Gujarati | Composition,1,1,,5,10,,0.95000000,100.00,1,28MAR2025:03:10:16.887
+19964,3199,02,November 2024,Gujarati | Language Usage & Comprehension,,1,,43,49,0.89941263,,100.00,1,28MAR2025:03:10:16.887
+19964,3201,01,November 2024,HINDI (MAURITIUS) | Composition,1,1,,7,7,,0.69000000,99.58,1,28MAR2025:03:10:16.887
+19964,3201,02,November 2024,HINDI (MAURITIUS) | Translation & Reading Comprehension,1,1,,14,14,,0.77000000,99.75,1,28MAR2025:03:10:16.887
+19964,3203,01,November 2024,Panjabi | Composition,1,1,,5,10,,0.86000000,93.10,1,28MAR2025:03:10:16.887
+19964,3203,02,November 2024,Panjabi | Language Usage & Comprehension,,1,,43,49,0.86535915,,93.10,1,28MAR2025:03:10:16.887
+19964,3215,01,November 2024,Bengali | Composition,1,1,,5,10,,0.84000000,100.00,1,28MAR2025:03:10:16.887
+19964,3215,02,November 2024,Bengali | Language Usage & Comprehension,,1,,43,49,0.89821708,,98.89,1,28MAR2025:03:10:16.887
+19964,3248,01,November 2024,Second Language Urdu | Paper 1 Reading and Writing,,1,,21,23,0.81062839,,98.72,1,28MAR2025:03:10:16.887
+19964,3248,02,November 2024,"Second Language Urdu | Paper 2 Grammar, Writing and Translation",,1,,17,19,0.78958834,,98.52,1,28MAR2025:03:10:16.887
+19964,3249,01,November 2024,Burmese | Paper 1,1,1,,20,28,,0.92000000,96.08,1,28MAR2025:03:10:16.887
+19964,3260,01,November 2024,Thai | Paper 1,1,1,,17,23,,0.85000000,85.29,1,28MAR2025:03:10:16.887
+19964,3917,01,November 2024,French | Writing 01,1,1,,5,9,,0.98000000,73.07,1,28MAR2025:03:10:16.887
+19964,3917,02,November 2024,French | Reading 02,,1,,41,45,0.95712923,,72.37,1,28MAR2025:03:10:16.887
+19964,3917,03,November 2024,French | Listening 03,,1,,30,30,0.92683169,,72.13,1,28MAR2025:03:10:16.887
+19964,3918,01,November 2024,German | Writing 01,1,1,,5,9,,0.93000000,91.21,1,28MAR2025:03:10:16.887
+19964,3918,02,November 2024,German | Reading 02,,1,,41,45,0.87842411,,92.31,1,28MAR2025:03:10:16.887
+19964,3918,03,November 2024,German | Listening 03,,1,,30,30,0.82721332,,92.31,1,28MAR2025:03:10:16.887
+19964,3919,01,November 2024,Japanese | Writing 01,1,1,,6,12,,0.75000000,95.65,1,28MAR2025:03:10:16.887
+19964,3919,02,November 2024,Japanese | Reading 02,,1,,45,45,0.88594269,,95.65,1,28MAR2025:03:10:16.887
+19964,3919,03,November 2024,Japanese | Listening 03,,1,,28,28,0.84495531,,95.65,1,28MAR2025:03:10:16.887
+19964,4021,01,November 2024,Mathematics Syllabus A (Mauritius) | Paper 1,,1,,22,33,0.86637206,,97.16,1,28MAR2025:03:10:16.887
+19964,4021,02,November 2024,Mathematics Syllabus A (Mauritius) | Paper 2,,1,,9,56,0.92594137,,96.98,1,28MAR2025:03:10:16.887
+19964,4024,11,November 2024,Mathematics Syllabus D | Paper 11,,1,,26,44,0.94083728,,99.26,1,28MAR2025:03:10:16.887
+19964,4024,12,November 2024,Mathematics Syllabus D | Paper 12,,1,,26,44,0.95374487,,98.57,1,28MAR2025:03:10:16.887
+19964,4024,21,November 2024,Mathematics Syllabus D | Paper 21,,1,,11,42,0.93485730,,99.08,1,28MAR2025:03:10:16.887
+19964,4024,22,November 2024,Mathematics Syllabus D | Paper 22,,1,,10,40,0.94669248,,98.16,1,28MAR2025:03:10:16.887
+19964,4037,12,November 2024,ADDITIONAL MATHEMATICS | Paper 12,,1,,10,23,0.93420283,,99.10,1,28MAR2025:03:10:16.887
+19964,4037,13,November 2024,ADDITIONAL MATHEMATICS | Paper 13,,1,,11,25,0.91879198,,99.92,1,28MAR2025:03:10:16.887
+19964,4037,22,November 2024,ADDITIONAL MATHEMATICS | Paper 22,,1,,12,25,0.93390195,,98.99,1,28MAR2025:03:10:16.887
+19964,4037,23,November 2024,ADDITIONAL MATHEMATICS | Paper 23,,1,,12,26,0.92077157,,99.92,1,28MAR2025:03:10:16.887
+19964,4040,12,November 2024,STATISTICS | Paper 12,,1,,11,50,0.88826004,,99.43,1,28MAR2025:03:10:16.887
+19964,4040,13,November 2024,STATISTICS | Paper 13,,1,,11,50,0.86490896,,100.00,1,28MAR2025:03:10:16.887
+19964,4040,22,November 2024,STATISTICS | Paper 22,,1,,10,40,0.91925991,,99.32,1,28MAR2025:03:10:16.887
+19964,4040,23,November 2024,STATISTICS | Paper 23,,1,,10,40,0.91464886,,100.00,1,28MAR2025:03:10:16.887
+19964,4049,01,November 2024,Additional Mathematics | Paper 1,,1,,13,24,0.91473677,,96.66,1,28MAR2025:03:10:16.887
+19964,4049,02,November 2024,Additional Mathematics | Paper 2,,1,,11,27,0.91382700,,96.42,1,28MAR2025:03:10:16.887
+19964,4052,01,November 2024,Mathematics (Singapore) | Paper 1,,1,,27,45,0.91567778,,98.84,1,28MAR2025:03:15:45.110
+19964,4052,02,November 2024,Mathematics (Singapore) | Paper 2,,1,,9,37,0.90727285,,98.76,1,28MAR2025:03:15:52.047
+19964,4054,01,November 2024,Enterprise (Mauritius) | Case Study,,1,,7,22,0.82440193,,99.19,1,28MAR2025:03:10:16.887
+19964,5014,12,November 2024,Environmental Management | Theory 12,,1,,9,40,0.85747633,,98.96,1,28MAR2025:03:10:16.887
+19964,5014,22,November 2024,Environmental Management | Management in Context 22,,1,,4,45,0.88174592,,98.96,1,28MAR2025:03:10:16.887
+19964,5016,12,November 2024,Physical Education | Theory,,1,,14,31,0.91503814,,98.39,1,28MAR2025:03:10:16.887
+19964,5025,02,November 2024,German | Reading 02,,1,,6,45,0.89562010,,100.00,1,28MAR2025:03:10:16.887
+19964,5025,04,November 2024,German | Writing 04,1,1,,4,8,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,5030,02,November 2024,Spanish | Reading 02,,1,,6,45,0.90823176,,98.35,1,28MAR2025:03:10:16.887
+19964,5030,04,November 2024,Spanish | Writing 04,1,1,,4,8,,0.91000000,99.17,1,28MAR2025:03:10:16.887
+19964,5038,12,November 2024,AGRICULTURE | Theory 12,1,1,,14,45,,0.91000000,98.78,1,28MAR2025:03:10:16.887
+19964,5054,21,November 2024,Physics | Theory 21,,1,,9,40,0.92520070,,99.65,1,28MAR2025:03:10:16.887
+19964,5054,22,November 2024,Physics | Theory 22,,1,,9,40,0.94505040,,99.18,1,28MAR2025:03:10:16.887
+19964,5054,41,November 2024,Physics | Alternative To Practical 41,,1,,4,24,0.83878110,,99.57,1,28MAR2025:03:10:16.887
+19964,5054,42,November 2024,Physics | Alternative To Practical 42,,1,,4,29,0.86312472,,98.90,1,28MAR2025:03:10:16.887
+19964,5070,21,November 2024,Chemistry | Theory 21,,1,,7,51,0.93918386,,98.94,1,28MAR2025:03:10:16.887
+19964,5070,22,November 2024,Chemistry | Theory 22,,1,,7,50,0.95092540,,98.88,1,28MAR2025:03:10:16.887
+19964,5070,41,November 2024,Chemistry | Alternative To Practical 41,,1,,4,22,0.85961663,,98.72,1,28MAR2025:03:10:16.887
+19964,5070,42,November 2024,Chemistry | Alternative To Practical 42,,1,,4,21,0.83362228,,98.63,1,28MAR2025:03:10:16.887
+19964,5076,02,November 2024,"Science (Physics, Chemistry) (Singapore) | Theory (Physics)",1,1,,12,41,,0.88000000,95.62,1,28MAR2025:03:10:16.887
+19964,5076,03,November 2024,"Science (Physics, Chemistry) (Singapore) | Theory (Chemistry)",1,1,,11,42,,0.92000000,95.90,1,28MAR2025:03:10:16.887
+19964,5077,02,November 2024,"Science (Physics, Biology) (Singapore) | Theory (Physics)",1,1,,12,41,,0.94000000,74.19,1,28MAR2025:03:10:16.887
+19964,5077,04,November 2024,"Science (Physics, Biology) (Singapore) | Theory (Biology)",1,1,,9,25,,0.90000000,74.19,1,28MAR2025:03:10:16.887
+19964,5078,03,November 2024,"Science (Chemistry, Biology) (Singapore) | Theory (Chemistry)",1,1,,11,42,,0.93000000,95.05,1,28MAR2025:03:10:16.887
+19964,5078,04,November 2024,"Science (Chemistry, Biology) (Singapore) | Theory (Biology)",1,1,,9,25,,0.86000000,94.78,1,28MAR2025:03:10:16.887
+19964,5086,02,November 2024,"Science (Physics, Chemistry) | Structured and Free Response (Physics)",1,1,,11,41,,0.86000000,99.35,1,28MAR2025:03:10:16.887
+19964,5086,03,November 2024,"Science (Physics, Chemistry) | Structured and Free Response (Chemistry)",1,1,,11,41,,0.91000000,99.42,1,28MAR2025:03:10:16.887
+19964,5087,02,November 2024,"Science (Physics, Biology) | Structured and Free Response (Physics)",1,1,,11,41,,0.87000000,96.36,1,28MAR2025:03:10:16.887
+19964,5087,04,November 2024,"Science (Physics, Biology) | Structured and Free Response (Biology)",1,1,,9,27,,0.85000000,96.36,1,28MAR2025:03:10:16.887
+19964,5088,03,November 2024,"Science (Chemistry, Biology) | Structured and Free Response (Chemistry)",1,1,,11,41,,0.92000000,99.21,1,28MAR2025:03:10:16.887
+19964,5088,04,November 2024,"Science (Chemistry, Biology) | Structured and Free Response (Biology)",1,1,,9,27,,0.83000000,99.00,1,28MAR2025:03:10:16.887
+19964,5090,21,November 2024,Biology | Theory 21,,1,,7,31,0.89691784,,99.39,1,28MAR2025:03:10:16.887
+19964,5090,22,November 2024,Biology | Theory 22,,1,,7,28,0.90776054,,99.40,1,28MAR2025:03:10:16.887
+19964,5090,41,November 2024,Biology | Alternative to Practical 41,,1,,3,16,0.79132641,,98.89,1,28MAR2025:03:10:16.887
+19964,5090,42,November 2024,Biology | Alternative to Practical 42,,1,,3,17,0.82890753,,99.23,1,28MAR2025:03:10:16.887
+19964,5129,21,November 2024,Combined Science | Theory 21,,1,,15,49,0.85567937,,100.00,1,28MAR2025:03:10:16.887
+19964,5129,22,November 2024,Combined Science | Theory 22,,1,,14,45,0.90295252,,99.39,1,28MAR2025:03:10:16.887
+19964,5129,31,November 2024,Combined Science | Experimental Skills and Investigations 31,,1,,4,24,0.76600884,,99.56,1,28MAR2025:03:10:16.887
+19964,5129,32,November 2024,Combined Science | Experimental Skills and Investigations 32,,1,,4,20,0.83698596,,99.19,1,28MAR2025:03:10:16.887
+19964,6043,32,November 2024,Design and Technology | Resistant Materials 32,1,1,,13,44,,0.80000000,98.62,1,28MAR2025:03:10:16.887
+19964,6063,01,November 2024,Electronics (Singapore) | Paper 1,,1,,14,42,0.88376874,,98.25,1,28MAR2025:03:10:16.887
+19964,6065,11,November 2024,Food and Nutrition | Theory 11,1,1,,15,33,,0.89000000,100.00,1,28MAR2025:03:10:16.887
+19964,6065,12,November 2024,Food and Nutrition | Theory 12,1,1,,14,36,,0.89000000,97.98,1,28MAR2025:03:10:16.887
+19964,6085,01,November 2024,Music (Singapore) | Music Studies,,1,,6,43,0.84060022,,98.56,1,28MAR2025:03:10:16.887
+19964,6086,01,November 2024,Higher Music (Singapore) | Music Studies,,1,,6,43,0.75948953,,98.10,1,28MAR2025:03:10:16.887
+19964,6091,02,November 2024,Physics with Practical (Singapore) | Theory,1,1,,11,54,,0.90000000,98.29,1,28MAR2025:03:14:52.360
+19964,6092,02,November 2024,Chemistry (Singapore) | Structured and Free Response,1,1,,10,44,,0.89000000,98.59,1,28MAR2025:03:14:40.687
+19964,6093,02,November 2024,Biology (Singapore) | Paper 2 Structured and Free-Response,1,1,,10,41,,0.83000000,98.77,1,28MAR2025:03:10:16.887
+19964,6097,01,November 2024,Nutrition And Food Science | Written Paper,,1,,23,37,0.82311608,,99.20,1,28MAR2025:03:10:16.887
+19964,6123,03,November 2024,Art (Singapore) | Study of Visual Arts,1,1,,4,12,,0.84000000,97.24,1,28MAR2025:03:10:16.887
+19964,6124,03,November 2024,Higher Art | Study of Visual Arts,1,1,,4,12,,0.78000000,97.01,1,28MAR2025:03:10:16.887
+19964,6130,01,November 2024,Fashion and Textiles | Written,1,1,,6,41,,0.91000000,99.44,1,28MAR2025:03:10:16.887
+19964,7059,01,November 2024,Design and Technology (Singapore) | Written Examination,,1,,4,31,0.81758785,,98.29,1,28MAR2025:03:10:16.887
+19964,7085,01,November 2024,Business Studies (Singapore) | Short Answer/Data Response,,1,,4,20,0.86439238,,87.29,1,28MAR2025:03:10:16.887
+19964,7085,02,November 2024,Business Studies (Singapore) | Case Study,,1,,4,8,0.81876530,,83.90,1,28MAR2025:03:10:16.887
+19964,7087,01,November 2024,Principles Of Accounts (Singapore) | Written Paper 01,,1,,4,19,0.86041454,,95.24,1,28MAR2025:03:10:16.887
+19964,7087,02,November 2024,Principles Of Accounts (Singapore) | Written Paper 02,,1,,4,20,0.85276708,,95.07,1,28MAR2025:03:10:16.887
+19964,7096,12,November 2024,Travel and Tourism | Key Terms and Concepts 12,,1,,4,20,0.84804459,,99.29,1,28MAR2025:03:10:16.887
+19964,7096,13,November 2024,Travel and Tourism | Key Terms and Concepts 13,,1,,4,20,0.75041391,,100.00,1,28MAR2025:03:10:16.887
+19964,7096,22,November 2024,Travel and Tourism | Managing and Marketing Destinations 22,,1,,4,16,0.80510867,,99.13,1,28MAR2025:03:10:16.887
+19964,7096,23,November 2024,Travel and Tourism | Managing and Marketing Destinations 23,,1,,4,17,0.76153244,,100.00,1,28MAR2025:03:10:16.887
+19964,7100,21,November 2024,Commerce | Written 21,,1,,5,29,0.85788179,,98.77,1,28MAR2025:03:10:16.887
+19964,7100,22,November 2024,Commerce | Written 22,,1,,5,25,0.88492059,,98.31,1,28MAR2025:03:14:47.390
+19964,7115,11,November 2024,Business Studies | Short Answer/Data Response 11,,1,,4,20,0.89280639,,99.35,1,28MAR2025:03:10:16.887
+19964,7115,12,November 2024,Business Studies | Short Answer/Data Response 12,,1,,4,20,0.89280356,,99.02,1,28MAR2025:03:10:16.887
+19964,7115,21,November 2024,Business Studies | Case Study 21,,1,,4,8,0.82890405,,99.23,1,28MAR2025:03:10:16.887
+19964,7115,22,November 2024,Business Studies | Case Study 22,,1,,4,8,0.84474806,,98.97,1,28MAR2025:03:10:16.887
+19964,7155,01,November 2024,Computing (Singapore) | Paper 1 Written,,1,,11,28,0.85908649,,97.07,1,28MAR2025:03:10:16.887
+19964,7156,22,November 2024,French | Reading 22,,1,,6,45,0.91066185,,96.43,1,28MAR2025:03:10:16.887
+19964,7156,42,November 2024,French | Writing 42,1,1,,4,8,,0.89000000,96.43,1,28MAR2025:03:10:16.887
+19964,7159,22,November 2024,German | Reading 22,,1,,6,45,0.90715216,,94.92,1,28MAR2025:03:10:16.887
+19964,7159,42,November 2024,German | Writing 42,1,1,,4,8,,0.89000000,94.92,1,28MAR2025:03:10:16.887
+19964,7160,21,November 2024,Spanish | Reading 21,,1,,6,45,0.97253361,,91.18,1,28MAR2025:03:10:16.887
+19964,7160,41,November 2024,Spanish | Writing 41,1,1,,4,8,,0.90000000,94.12,1,28MAR2025:03:10:16.887
+19964,7184,01,November 2024,First Language Arabic | Reading 01,,1,,2,14,0.79305507,,96.83,1,28MAR2025:03:10:16.887
+19964,7184,02,November 2024,First Language Arabic | Writing 02,1,1,,8,16,,0.89000000,96.83,1,28MAR2025:03:10:16.887
+19964,7707,22,November 2024,Accounting | Paper 22 (Structured),,1,,5,28,0.91679061,,98.89,1,28MAR2025:03:10:16.887
+19964,7707,23,November 2024,Accounting | Paper 23 (Structured),,1,,5,20,0.90443520,,99.56,1,28MAR2025:03:10:16.887
+19964,8019,01,November 2024,English General Paper (Mauritius) | Essay,1,1,,10,10,,,99.49,1,28MAR2025:03:10:16.887
+19964,8019,02,November 2024,English General Paper (Mauritius) | Comprehension,,1,,2,24,0.59610813,,99.42,1,28MAR2025:03:10:16.887
+19964,8021,11,November 2024,English General Paper | Essay 11,1,1,,10,10,,,91.98,1,28MAR2025:03:10:16.887
+19964,8021,12,November 2024,English General Paper | Essay 12,1,1,,10,10,,,97.20,1,28MAR2025:03:10:16.887
+19964,8021,13,November 2024,English General Paper | Essay 13,1,1,,10,10,,,81.82,1,28MAR2025:03:10:16.887
+19964,8021,21,November 2024,English General Paper | Comprehension 21,,1,,2,25,0.76480849,,91.98,1,28MAR2025:03:10:16.887
+19964,8021,22,November 2024,English General Paper | Comprehension 22,,1,,2,18,0.72315934,,97.27,1,28MAR2025:03:10:16.887
+19964,8021,23,November 2024,English General Paper | Comprehension 23,,1,,2,24,0.82182549,,83.22,1,28MAR2025:03:10:16.887
+19964,8022,31,November 2024,Spanish Language | Writing 31,1,1,,3,9,,0.90000000,92.73,1,28MAR2025:03:10:16.887
+19964,8022,32,November 2024,Spanish Language | Writing 32,1,1,,3,9,,0.91000000,97.70,1,28MAR2025:03:10:16.887
+19964,8022,33,November 2024,Spanish Language | Writing 33,1,1,,3,9,,0.91000000,98.04,1,28MAR2025:03:10:16.887
+19964,8030,01,November 2024,Global Perspectives (Mauritius) | Written Examination,,1,,3,4,0.56934815,,100.00,1,28MAR2025:03:10:16.887
+19964,8030,02,November 2024,Global Perspectives (Mauritius) | Essay,,1,,3,3,0.82981720,,100.00,1,28MAR2025:03:10:16.887
+19964,8030,03,November 2024,Global Perspectives (Mauritius) | Presentation,,1,,3,3,0.66983258,,100.00,1,28MAR2025:03:10:16.887
+19964,8129,02,November 2024,FRENCH (MAURITIUS) | Reading & Writing,,1,,5,27,0.86775385,,99.61,1,28MAR2025:03:10:16.887
+19964,8129,03,November 2024,FRENCH (MAURITIUS) | Essay,1,1,,5,10,,0.74000000,99.66,1,28MAR2025:03:10:16.887
+19964,8187,02,November 2024,Arabic(Singapore) | Reading & Writing,,1,,5,25,0.81948005,,94.44,1,28MAR2025:03:10:16.887
+19964,8187,03,November 2024,Arabic(Singapore) | Essay,1,1,,5,10,,0.86000000,94.44,1,28MAR2025:03:10:16.887
+19964,8238,31,November 2024,Chinese Language | Writing 31,1,1,,3,9,,0.93000000,100.00,1,28MAR2025:03:10:16.887
+19964,8238,32,November 2024,Chinese Language | Writing 32,1,1,,3,9,,0.91000000,98.83,1,28MAR2025:03:10:16.887
+19964,8238,33,November 2024,Chinese Language | Writing 33,1,1,,3,9,,0.94000000,95.00,1,28MAR2025:03:10:16.887
+19964,8291,11,November 2024,Environmental Management | Principles of Environmental Management - Paper 11,1,1,,6,23,,0.62000000,95.32,1,28MAR2025:03:10:16.887
+19964,8291,12,November 2024,Environmental Management | Principles of Environmental Management - Paper 12,1,1,,6,25,,0.79000000,98.01,1,28MAR2025:03:10:16.887
+19964,8291,13,November 2024,Environmental Management | Principles of Environmental Management - Paper 13,1,1,,6,23,,0.74000000,100.00,1,28MAR2025:03:10:16.887
+19964,8291,21,November 2024,Environmental Management | Management in Context - Paper 21,,1,,4,38,0.79324431,,22.24,1,28MAR2025:03:10:16.887
+19964,8291,22,November 2024,Environmental Management | Management in Context - Paper 22,,1,,4,34,0.87199041,,98.01,1,28MAR2025:03:10:16.887
+19964,8291,23,November 2024,Environmental Management | Management in Context - Paper 23,,1,,4,38,0.89565883,,100.00,1,28MAR2025:03:10:16.887
+19964,8386,11,November 2024,Sport & Physical Education | Theory 11,,1,,7,22,0.88826247,,92.98,1,28MAR2025:03:10:16.887
+19964,8386,12,November 2024,Sport & Physical Education | Theory 12,,1,,6,17,0.83925493,,98.25,1,28MAR2025:03:10:16.887
+19964,8386,13,November 2024,Sport & Physical Education | Theory 13,,1,,7,22,0.77174181,,100.00,1,28MAR2025:03:10:16.887
+19964,8675,04,November 2024,Hindi Literature | Texts,1,1,,12,12,,0.68000000,100.00,1,28MAR2025:03:10:16.887
+19964,8679,02,November 2024,AFRIKAANS LANGUAGE | Reading & Writing,,1,,5,25,0.92866303,,99.09,1,28MAR2025:03:10:16.887
+19964,8679,03,November 2024,AFRIKAANS LANGUAGE | Essay,1,1,,5,10,,0.88000000,98.99,1,28MAR2025:03:10:16.887
+19964,8680,22,November 2024,Arabic Language | Reading and Writing 22,,1,,5,25,0.80823996,,92.31,1,28MAR2025:03:10:16.887
+19964,8680,32,November 2024,Arabic Language | Essay 32,1,1,,5,10,,0.76000000,92.31,1,28MAR2025:03:10:16.887
+19964,8682,21,November 2024,FRENCH LANGUAGE | Reading & Writing 21,,1,,5,25,0.71405987,,100.00,1,28MAR2025:03:10:16.887
+19964,8682,22,November 2024,FRENCH LANGUAGE | Reading & Writing 22,,1,,5,27,0.91936421,,98.54,1,28MAR2025:03:10:16.887
+19964,8682,23,November 2024,FRENCH LANGUAGE | Reading & Writing 23,,1,,5,26,0.91348659,,100.00,1,28MAR2025:03:10:16.887
+19964,8682,31,November 2024,FRENCH LANGUAGE | Essay 31,1,1,,5,10,,0.52000000,100.00,1,28MAR2025:03:10:16.887
+19964,8682,32,November 2024,FRENCH LANGUAGE | Essay 32,1,1,,5,10,,0.84000000,98.54,1,28MAR2025:03:10:16.887
+19964,8682,33,November 2024,FRENCH LANGUAGE | Essay 33,1,1,,5,10,,0.58000000,93.33,1,28MAR2025:03:10:16.887
+19964,8683,22,November 2024,German Language | Reading & Writing 22,,1,,5,25,0.91407725,,100.00,1,28MAR2025:03:10:16.887
+19964,8683,23,November 2024,German Language | Reading & Writing 23,,1,,5,26,0.88821874,,100.00,1,28MAR2025:03:10:16.887
+19964,8683,32,November 2024,German Language | Essay 32,1,1,,5,10,,0.77000000,100.00,1,28MAR2025:03:10:16.887
+19964,8683,33,November 2024,German Language | Essay 33,1,1,,5,10,,0.69000000,100.00,1,28MAR2025:03:10:16.887
+19964,8686,02,November 2024,Urdu Language | Reading & Writing,,1,,5,25,0.72466465,,98.18,1,28MAR2025:03:10:16.887
+19964,8686,03,November 2024,Urdu Language | Essay,1,1,,5,10,,0.80000000,98.18,1,28MAR2025:03:10:16.887
+19964,8687,02,November 2024,Hindi Language | Reading & Writing,,1,,5,25,0.76641692,,99.15,1,28MAR2025:03:10:16.887
+19964,8687,03,November 2024,Hindi Language | Essay,1,1,,5,10,,0.79000000,98.72,1,28MAR2025:03:10:16.887
+19964,8688,02,November 2024,MARATHI LANGUAGE | Reading & Writing,,1,,5,26,0.64161168,,92.86,1,28MAR2025:03:10:16.887
+19964,8688,03,November 2024,MARATHI LANGUAGE | Essay,1,1,,5,10,,0.82000000,92.86,1,28MAR2025:03:10:16.887
+19964,8689,22,November 2024,Tamil Language | Reading & Writing 22,,1,,5,25,0.76525317,,100.00,1,28MAR2025:03:10:16.887
+19964,8689,32,November 2024,Tamil Language | Essay 32,1,1,,5,10,,0.71000000,100.00,1,28MAR2025:03:10:16.887
+19964,8690,02,November 2024,Telugu Language | Reading & Writing,,1,,5,25,0.70521390,,100.00,1,28MAR2025:03:10:16.887
+19964,8690,03,November 2024,Telugu Language | Essay,1,1,,5,10,,1.00000000,100.00,1,28MAR2025:03:10:16.887
+19964,8695,11,November 2024,Language and Literature in English | Writing Paper 11,1,1,,4,5,,0.77000000,98.67,1,28MAR2025:03:10:16.887
+19964,8695,12,November 2024,Language and Literature in English | Writing Paper 12,1,1,,4,5,,0.78000000,98.81,1,28MAR2025:03:10:16.887
+19964,8695,13,November 2024,Language and Literature in English | Writing Paper 13,1,1,,4,5,,0.70000000,100.00,1,28MAR2025:03:10:16.887
+19964,8695,21,November 2024,"Language and Literature in English | Drama, Poetry and Prose Paper 21",1,1,,24,24,,0.75000000,94.67,1,28MAR2025:03:10:16.887
+19964,8695,22,November 2024,"Language and Literature in English | Drama, Poetry and Prose Paper 22",1,1,,24,24,,0.71000000,99.21,1,28MAR2025:03:10:16.887
+19964,8695,23,November 2024,"Language and Literature in English | Drama, Poetry and Prose Paper 23",1,1,,24,24,,0.76000000,100.00,1,28MAR2025:03:10:16.887
+19964,8807,01,November 2024,General Paper | Essay,1,1,,12,24,,0.84000000,87.83,1,28MAR2025:03:10:16.887
+19964,8807,02,November 2024,General Paper | Comprehension,,1,,11,11,0.58563213,,87.28,1,28MAR2025:03:10:16.887
+19964,8813,01,November 2024,GEOGRAPHY | Paper 1,1,1,,6,18,,0.67000000,62.16,1,28MAR2025:03:10:16.887
+19964,8821,01,November 2024,History | The Cold War and the Modern World (1945-2000),1,1,,5,6,,0.62000000,73.33,1,28MAR2025:03:10:16.887
+19964,8827,01,November 2024,Bengali | Written,1,1,,39,52,,0.77000000,100.00,1,28MAR2025:03:10:16.887
+19964,8828,01,November 2024,Gujarati | Written,1,1,,39,52,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,8829,01,November 2024,Hindi | Written,1,1,,39,52,,0.83000000,99.53,1,28MAR2025:03:10:16.887
+19964,8831,02,November 2024,French | Reading & Writing,1,1,,6,31,,0.90000000,92.06,1,28MAR2025:03:10:16.887
+19964,8831,03,November 2024,French | Listening,,1,,17,25,0.85268727,,90.48,1,28MAR2025:03:10:16.887
+19964,8832,01,November 2024,Literature in English | Reading Literature,1,1,,18,18,,0.80000000,97.89,1,28MAR2025:03:10:16.887
+19964,8833,02,November 2024,German | Reading & Writing,1,1,,6,31,,0.92000000,100.00,1,28MAR2025:03:10:16.887
+19964,8833,03,November 2024,German | Listening,,1,,23,25,0.87290503,,100.00,1,28MAR2025:03:10:16.887
+19964,8834,01,November 2024,Geography | Written Paper,1,1,,6,19,,0.72000000,99.78,1,28MAR2025:03:10:16.887
+19964,8835,02,November 2024,Japanese | Reading and Writing,1,1,,27,48,,0.93000000,88.24,1,28MAR2025:03:10:16.887
+19964,8835,03,November 2024,Japanese | Listening,,1,,17,17,0.86705891,,88.24,1,28MAR2025:03:10:16.887
+19964,8836,01,November 2024,Panjabi | Written,1,1,,39,52,,0.81000000,86.67,1,28MAR2025:03:10:16.887
+19964,8837,01,November 2024,Urdu | Written,1,1,,39,52,,0.63000000,100.00,1,28MAR2025:03:10:16.887
+19964,8838,01,November 2024,History | The Cold War and the Modern World (1945-1991),1,1,,5,6,,0.54000000,100.00,1,28MAR2025:03:10:16.887
+19964,8843,01,November 2024,Economics | Paper 1,,1,,2,20,0.80498957,,97.03,1,28MAR2025:03:10:16.887
+19964,8865,01,November 2024,Mathematics | Paper 1,,1,,12,34,0.91529581,,97.07,1,28MAR2025:03:10:16.887
+19964,8867,02,November 2024,Physics | Structured Questions,1,1,,8,48,,0.83000000,95.03,1,28MAR2025:03:10:16.887
+19964,8873,02,November 2024,Chemistry | Structured and Free Response Questions,1,1,,7,60,,0.88000000,97.83,1,28MAR2025:03:10:16.887
+19964,8876,02,November 2024,BIOLOGY | Structured and Free-response Questions,1,1,,5,22,,0.75000000,96.67,1,28MAR2025:03:10:16.887
+19964,8879,01,November 2024,Art | Study of Visual Arts,1,1,,6,14,,0.61000000,100.00,1,28MAR2025:03:10:16.887
+19964,8881,01,November 2024,General Paper | Essay,1,1,,8,16,,0.81000000,99.46,1,28MAR2025:03:10:16.887
+19964,8881,02,November 2024,General Paper | Comprehension,,1,,10,10,0.59404961,,99.43,1,28MAR2025:03:10:16.887
+19964,9084,11,November 2024,Law | English Legal System 11,1,1,,8,15,,0.89000000,97.56,1,28MAR2025:03:10:16.887
+19964,9084,12,November 2024,Law | English Legal System 12,1,1,,8,15,,0.89000000,95.19,1,28MAR2025:03:10:16.887
+19964,9084,13,November 2024,Law | English Legal System 13,1,1,,8,15,,0.79000000,100.00,1,28MAR2025:03:10:16.887
+19964,9084,21,November 2024,Law | Criminal Law 21,1,1,,3,14,,0.65000000,97.56,1,28MAR2025:03:10:16.887
+19964,9084,22,November 2024,Law | Criminal Law 22,1,1,,3,14,,0.81000000,93.43,1,28MAR2025:03:10:16.887
+19964,9084,23,November 2024,Law | Criminal Law 23,1,1,,3,14,,,100.00,1,28MAR2025:03:10:16.887
+19964,9084,31,November 2024,Law | Law of Contract 31,1,1,,5,15,,0.91000000,98.92,1,28MAR2025:03:10:16.887
+19964,9084,32,November 2024,Law | Law of Contract 32,1,1,,5,15,,0.89000000,91.84,1,28MAR2025:03:10:16.887
+19964,9084,41,November 2024,Law | Law of Tort 41,1,1,,5,15,,0.93000000,98.92,1,28MAR2025:03:10:16.887
+19964,9084,42,November 2024,Law | Law of Tort 42,1,1,,5,15,,0.92000000,91.32,1,28MAR2025:03:10:16.887
+19964,9093,11,November 2024,English Language | Reading Paper 11,,1,,3,6,0.73050543,,93.25,1,28MAR2025:03:10:16.887
+19964,9093,12,November 2024,English Language | Reading Paper 12,,1,,3,6,0.76274130,,98.47,1,28MAR2025:03:10:16.887
+19964,9093,13,November 2024,English Language | Reading Paper 13,,1,,3,6,0.77539570,,97.15,1,28MAR2025:03:10:16.887
+19964,9093,21,November 2024,English Language | Writing Paper 21,1,1,,4,5,,0.66000000,92.70,1,28MAR2025:03:10:16.887
+19964,9093,22,November 2024,English Language | Writing Paper 22,1,1,,4,5,,0.76000000,98.41,1,28MAR2025:03:10:16.887
+19964,9093,23,November 2024,English Language | Writing Paper 23,1,1,,4,5,,0.76000000,96.81,1,28MAR2025:03:10:16.887
+19964,9093,31,November 2024,English Language | Language Analysis Paper 31,,1,,2,6,0.79706247,,93.42,1,28MAR2025:03:10:16.887
+19964,9093,32,November 2024,English Language | Language Analysis Paper 32,,1,,2,6,0.81975444,,95.85,1,28MAR2025:03:10:16.887
+19964,9093,33,November 2024,English Language | Language Analysis Paper 33,,1,,2,6,0.84674388,,96.70,1,28MAR2025:03:10:16.887
+19964,9093,41,November 2024,English Language | Language Topics Paper 41,,1,,2,6,0.71975565,,93.42,1,28MAR2025:03:10:16.887
+19964,9093,42,November 2024,English Language | Language Topics Paper 42,,1,,2,6,0.86557546,,95.85,1,28MAR2025:03:10:16.887
+19964,9093,43,November 2024,English Language | Language Topics Paper 43,,1,,2,6,0.88803699,,96.70,1,28MAR2025:03:10:16.887
+19964,9094,02,November 2024,FRENCH (MAURITIUS) | Reading & Writing,,1,,5,27,0.82779255,,99.53,1,28MAR2025:03:10:16.887
+19964,9094,03,November 2024,FRENCH (MAURITIUS) | Essay,1,1,,5,10,,0.73000000,99.53,1,28MAR2025:03:10:16.887
+19964,9094,04,November 2024,FRENCH (MAURITIUS) | Texts,1,1,,16,16,,0.70000000,99.46,1,28MAR2025:03:14:32.983
+19964,9094,05,November 2024,FRENCH (MAURITIUS) | Listening,,1,,32,42,0.83394093,,99.33,1,28MAR2025:03:10:16.887
+19964,9094,06,November 2024,FRENCH (MAURITIUS) | Transfer of Meaning,,1,,3,7,0.58134694,,99.46,1,28MAR2025:03:10:16.887
+19964,9173,01,November 2024,Geography | Written Paper 1,1,1,,6,16,,0.66000000,98.57,1,28MAR2025:03:10:16.887
+19964,9173,02,November 2024,Geography | Written Paper 2,1,1,,4,15,,0.62000000,98.96,1,28MAR2025:03:10:16.887
+19964,9174,01,November 2024,History | The Changing International Order (1945-2000),1,1,,5,6,,0.68000000,99.13,1,28MAR2025:03:10:16.887
+19964,9174,02,November 2024,History | Developments in Southeast Asia (Independence-2000),1,1,,5,6,,0.62000000,98.84,1,28MAR2025:03:10:16.887
+19964,9231,11,November 2024,Further Mathematics | Further Pure Mathematics 11,,1,,7,22,0.92260550,,93.50,1,28MAR2025:03:10:16.887
+19964,9231,12,November 2024,Further Mathematics | Further Pure Mathematics 12,,1,,7,23,0.88706856,,95.42,1,28MAR2025:03:10:16.887
+19964,9231,13,November 2024,Further Mathematics | Further Pure Mathematics 13,,1,,7,22,0.79509746,,100.00,1,28MAR2025:03:10:16.887
+19964,9231,21,November 2024,Further Mathematics | Further Pure Mathematics 21,,1,,8,18,0.93558135,,89.19,1,28MAR2025:03:10:16.887
+19964,9231,22,November 2024,Further Mathematics | Further Pure Mathematics 22,,1,,8,16,0.91910076,,94.57,1,28MAR2025:03:10:16.887
+19964,9231,23,November 2024,Further Mathematics | Further Pure Mathematics 23,,1,,8,18,0.89692008,,98.15,1,28MAR2025:03:10:16.887
+19964,9231,31,November 2024,Further Mathematics | Further Mechanics 31,,1,,7,13,0.86603914,,90.00,1,28MAR2025:03:10:16.887
+19964,9231,32,November 2024,Further Mathematics | Further Mechanics 32,,1,,7,13,0.89278005,,94.60,1,28MAR2025:03:10:16.887
+19964,9231,33,November 2024,Further Mathematics | Further Mechanics 33,,1,,7,13,0.84095005,,100.00,1,28MAR2025:03:10:16.887
+19964,9231,41,November 2024,Further Mathematics | Further Probability & Statistics 41,,1,,6,13,0.91733924,,88.66,1,28MAR2025:03:10:16.887
+19964,9231,42,November 2024,Further Mathematics | Further Probability & Statistics 42,,1,,6,13,0.85433694,,93.42,1,28MAR2025:03:10:16.887
+19964,9231,43,November 2024,Further Mathematics | Further Probability & Statistics 43,,1,,6,13,0.73293456,,100.00,1,28MAR2025:03:10:16.887
+19964,9239,02,November 2024,Global Perspectives & Research | Essay 02,,1,,3,10,0.76463401,,94.16,1,28MAR2025:03:10:16.887
+19964,9239,03,November 2024,Global Perspectives & Research | Team Project 03,,1,,2,9,0.77018586,,94.79,1,28MAR2025:03:10:16.887
+19964,9239,04,November 2024,Global Perspectives & Research | Research Report 04,,1,,4,7,0.81005015,,93.32,1,28MAR2025:03:10:16.887
+19964,9239,11,November 2024,Global Perspectives & Research | Written Exam 11,,1,,3,10,0.69050203,,97.66,1,28MAR2025:03:10:16.887
+19964,9239,12,November 2024,Global Perspectives & Research | Written Exam 12,,1,,3,10,0.80505190,,98.94,1,28MAR2025:03:10:16.887
+19964,9239,13,November 2024,Global Perspectives & Research | Written Exam 13,,1,,3,10,0.80645690,,90.72,1,28MAR2025:03:10:16.887
+19964,9274,11,November 2024,Classical Studies | Written Paper 11,1,1,,9,20,,0.61000000,93.02,1,28MAR2025:03:14:59.703
+19964,9274,12,November 2024,Classical Studies | Written Paper 12,1,1,,9,20,,0.63000000,92.21,1,28MAR2025:03:10:16.887
+19964,9274,13,November 2024,Classical Studies | Written Paper 13,1,1,,9,20,,0.61000000,98.80,1,28MAR2025:03:10:16.887
+19964,9274,21,November 2024,Classical Studies | Written Paper 21,1,1,,9,20,,0.60000000,92.23,1,28MAR2025:03:10:16.887
+19964,9274,22,November 2024,Classical Studies | Written Paper 22,1,1,,9,21,,0.61000000,92.21,1,28MAR2025:03:10:16.887
+19964,9274,23,November 2024,Classical Studies | Written Paper 23,1,1,,9,21,,0.57000000,98.80,1,28MAR2025:03:10:16.887
+19964,9274,31,November 2024,Classical Studies | Written Paper 31,1,1,,6,6,,0.66000000,97.73,1,28MAR2025:03:10:16.887
+19964,9274,32,November 2024,Classical Studies | Written Paper 32,1,1,,6,6,,0.88000000,90.32,1,28MAR2025:03:10:16.887
+19964,9274,33,November 2024,Classical Studies | Written Paper 33,1,1,,6,6,,0.66000000,98.57,1,28MAR2025:03:10:16.887
+19964,9274,41,November 2024,Classical Studies | Written Paper 41,1,1,,6,6,,0.75000000,97.09,1,28MAR2025:03:10:16.887
+19964,9274,42,November 2024,Classical Studies | Written Paper 42,1,1,,6,6,,0.60000000,90.32,1,28MAR2025:03:10:16.887
+19964,9274,43,November 2024,Classical Studies | Written Paper 43,1,1,,6,6,,0.48000000,98.57,1,28MAR2025:03:10:16.887
+19964,9336,01,November 2024,Food Studies | Theory,1,1,,8,61,,0.86000000,99.32,1,28MAR2025:03:10:16.887
+19964,9395,11,November 2024,Travel and Tourism | Themes and Concepts 11,,1,,3,14,0.75019170,,96.40,1,28MAR2025:03:10:16.887
+19964,9395,12,November 2024,Travel and Tourism | Themes and Concepts 12,,1,,3,14,0.76314489,,99.23,1,28MAR2025:03:10:16.887
+19964,9395,13,November 2024,Travel and Tourism | Themes and Concepts 13,,1,,3,14,0.67659586,,87.23,1,28MAR2025:03:10:16.887
+19964,9395,32,November 2024,Travel and Tourism | Destination Marketing 32,,1,,2,6,0.69059703,,99.64,1,28MAR2025:03:10:16.887
+19964,9395,33,November 2024,Travel and Tourism | Destination Marketing 33,,1,,2,6,0.49851288,,99.06,1,28MAR2025:03:10:16.887
+19964,9395,42,November 2024,Travel and Tourism | Destination Development and Management 42,,1,,2,6,0.64987585,,99.57,1,28MAR2025:03:10:16.887
+19964,9395,43,November 2024,Travel and Tourism | Destination Development and Management 43,,1,,2,6,0.49646151,,99.06,1,28MAR2025:03:10:16.887
+19964,9481,01,November 2024,Digital Media & Design | Portfolio,,1,,4,4,0.97487543,,84.25,1,28MAR2025:03:10:16.887
+19964,9481,02,November 2024,Digital Media & Design | Externally Set Assignment,1,1,,6,12,,0.96000000,88.04,1,28MAR2025:03:10:16.887
+19964,9481,03,November 2024,Digital Media & Design | Personal Investigation,,1,,4,4,0.98251883,,90.82,1,28MAR2025:03:10:16.887
+19964,9482,04,November 2024,Drama | Theatre In Context,,1,,4,4,0.83842593,,90.48,1,28MAR2025:03:10:16.887
+19964,9482,11,November 2024,Drama | Open-Book Written Examination 11,1,1,,20,40,,0.26000000,100.00,1,28MAR2025:03:10:16.887
+19964,9482,12,November 2024,Drama | Open-Book Written Examination 12,1,1,,20,40,,0.81000000,97.83,1,28MAR2025:03:10:16.887
+19964,9482,13,November 2024,Drama | Open-Book Written Examination 13,1,1,,20,40,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,9483,11,November 2024,Music | Listening 11,1,1,,8,17,,0.76000000,100.00,1,28MAR2025:03:10:16.887
+19964,9483,12,November 2024,Music | Listening 12,1,1,,8,17,,0.73000000,100.00,1,28MAR2025:03:10:16.887
+19964,9483,13,November 2024,Music | Listening 13,1,1,,8,17,,0.60000000,98.61,1,28MAR2025:03:10:16.887
+19964,9484,11,November 2024,Biblical Studies | Paper 11 The Four Gospels,1,1,,7,9,,0.81000000,95.76,1,28MAR2025:03:10:16.887
+19964,9484,12,November 2024,Biblical Studies | Paper 12 The Four Gospels,1,1,,7,9,,0.76000000,99.41,1,28MAR2025:03:15:22.377
+19964,9484,13,November 2024,Biblical Studies | Paper 13 The Four Gospels,1,1,,7,9,,,100.00,1,28MAR2025:03:10:16.887
+19964,9484,21,November 2024,Biblical Studies | Paper 21 The Development of Christianity,1,1,,4,10,,0.85000000,95.15,1,28MAR2025:03:10:16.887
+19964,9484,22,November 2024,Biblical Studies | Paper 22 The Development of Christianity,1,1,,4,10,,0.80000000,99.41,1,28MAR2025:03:10:16.887
+19964,9484,23,November 2024,Biblical Studies | Paper 23 The Development of Christianity,1,1,,4,10,,,100.00,1,28MAR2025:03:10:16.887
+19964,9484,32,November 2024,Biblical Studies | Paper 32 Prophets of the Old Testament,1,1,,6,6,,0.67000000,99.36,1,28MAR2025:03:10:16.887
+19964,9484,42,November 2024,Biblical Studies | Paper 42 Christian Understandings,1,1,,3,3,,0.69000000,99.14,1,28MAR2025:03:10:16.887
+19964,9487,01,November 2024,Hinduism | Written Paper 1,1,1,,4,12,,0.79000000,99.36,1,28MAR2025:03:10:16.887
+19964,9487,02,November 2024,Hinduism | Written Paper 2,1,1,,4,12,,0.79000000,99.36,1,28MAR2025:03:10:16.887
+19964,9487,03,November 2024,Hinduism | Written Paper 3,1,1,,4,8,,0.82000000,99.41,1,28MAR2025:03:10:16.887
+19964,9487,04,November 2024,Hinduism | Written Paper 4,1,1,,4,8,,0.76000000,99.41,1,28MAR2025:03:10:16.887
+19964,9488,12,November 2024,Islamic Studies | Written Paper 12,1,1,,3,7,,0.68000000,100.00,1,28MAR2025:03:10:16.887
+19964,9488,22,November 2024,Islamic Studies | Written Paper 22,1,1,,4,10,,0.70000000,100.00,1,28MAR2025:03:10:16.887
+19964,9488,32,November 2024,Islamic Studies | Written Paper 32,1,1,,4,8,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,9488,42,November 2024,Islamic Studies | Written Paper 42,1,1,,3,3,,0.71000000,99.35,1,28MAR2025:03:10:16.887
+19964,9489,11,November 2024,History | Document Question 11,1,1,,3,6,,0.52000000,96.41,1,28MAR2025:03:10:16.887
+19964,9489,12,November 2024,History | Document Question 12,1,1,,3,6,,0.63000000,91.38,1,28MAR2025:03:10:16.887
+19964,9489,13,November 2024,History | Document Question 13,1,1,,3,6,,0.59000000,97.53,1,28MAR2025:03:10:16.887
+19964,9489,21,November 2024,History | Outline Study 21,1,1,,10,18,,0.85000000,95.68,1,28MAR2025:03:10:16.887
+19964,9489,22,November 2024,History | Outline Study 22,1,1,,10,18,,0.76000000,91.38,1,28MAR2025:03:10:16.887
+19964,9489,23,November 2024,History | Outline Study 23,1,1,,10,18,,0.80000000,96.91,1,28MAR2025:03:10:16.887
+19964,9489,31,November 2024,History | Interpretations Question 31,1,1,,3,6,,0.99000000,98.82,1,28MAR2025:03:10:16.887
+19964,9489,32,November 2024,History | Interpretations Question 32,1,1,,3,6,,0.99000000,97.98,1,28MAR2025:03:10:16.887
+19964,9489,33,November 2024,History | Interpretations Question 33,1,1,,3,6,,0.98000000,99.45,1,28MAR2025:03:10:16.887
+19964,9489,41,November 2024,History | Depth Study 41,1,1,,12,24,,0.91000000,98.52,1,28MAR2025:03:10:16.887
+19964,9489,42,November 2024,History | Depth Study 42,1,1,,12,24,,0.88000000,97.57,1,28MAR2025:03:10:16.887
+19964,9489,43,November 2024,History | Depth Study 43,1,1,,12,24,,0.90000000,99.45,1,28MAR2025:03:10:16.887
+19964,9489,50,November 2024,History | AS Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,9489,60,November 2024,History | A2 Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,9508,01,November 2024,English Language & Linguistics | Analysing Language Use,,1,,2,2,0.84424378,,97.27,1,28MAR2025:03:10:16.887
+19964,9508,02,November 2024,English Language & Linguistics | Investigating Language Use in Society,1,1,,4,4,,0.88000000,96.72,1,28MAR2025:03:10:16.887
+19964,9509,01,November 2024,Literature in English | Reading Literature,1,1,,18,18,,0.81000000,98.82,1,28MAR2025:03:10:16.887
+19964,9509,02,November 2024,Literature in English | The English Renaissance,1,1,,22,22,,0.86000000,99.03,1,28MAR2025:03:10:16.887
+19964,9509,03,November 2024,Literature in English | The Mind and Self in Literature,1,1,,22,22,,0.79000000,98.40,1,28MAR2025:03:10:16.887
+19964,9519,01,November 2024,Theatre Studies and Drama | World Theatre and Drama,1,1,,18,18,,0.79000000,100.00,1,28MAR2025:03:10:16.887
+19964,9569,01,November 2024,Computing | Paper 1,,1,,6,34,0.86180996,,98.31,1,28MAR2025:03:10:16.887
+19964,9570,01,November 2024,Economics | Paper 1 Case Studies,,1,,2,16,0.77654486,,98.39,1,28MAR2025:03:10:16.887
+19964,9570,02,November 2024,Economics | Paper 2 Essays,1,1,,6,18,,0.79000000,98.50,1,28MAR2025:03:10:16.887
+19964,9578,02,November 2024,Spanish | Reading and Writing,,1,,5,25,0.55941358,,100.00,1,28MAR2025:03:10:16.887
+19964,9578,03,November 2024,Spanish | Essay,1,1,,5,10,,,100.00,1,28MAR2025:03:10:16.887
+19964,9578,05,November 2024,Spanish | Listening,,1,,29,29,0.84369984,,100.00,1,28MAR2025:03:10:16.887
+19964,9587,01,November 2024,Management of Business | Paper 1,1,1,,5,12,,0.81000000,84.06,1,28MAR2025:03:10:16.887
+19964,9587,02,November 2024,Management of Business | Paper 2,,1,,7,10,0.80345223,,84.06,1,28MAR2025:03:10:16.887
+19964,9593,01,November 2024,Principles of Accounting | Paper 01,,1,,4,29,0.89503679,,86.67,1,28MAR2025:03:10:16.887
+19964,9593,02,November 2024,Principles of Accounting | Paper 02,,1,,4,24,0.91997759,,82.96,1,28MAR2025:03:10:16.887
+19964,9607,02,November 2024,Media Studies | Media Texts And Contexts,1,1,,3,6,,0.91000000,84.75,1,28MAR2025:03:10:16.887
+19964,9607,04,November 2024,Media Studies | Critical Perspectives,1,1,,4,8,,0.92000000,98.73,1,28MAR2025:03:10:16.887
+19964,9609,11,November 2024,Business | Business Concepts 1 Paper 11,1,1,,6,21,,0.78000000,98.42,1,28MAR2025:03:15:13.733
+19964,9609,12,November 2024,Business | Business Concepts 1 Paper 12,1,1,,6,21,,0.79000000,97.74,1,28MAR2025:03:10:16.887
+19964,9609,13,November 2024,Business | Business Concepts 1 Paper 13,1,1,,6,21,,0.78000000,98.56,1,28MAR2025:03:10:16.887
+19964,9609,21,November 2024,Business | Business Concepts 2 Paper 21,,1,,2,22,0.83316167,,97.21,1,28MAR2025:03:10:16.887
+19964,9609,22,November 2024,Business | Business Concepts 2 Paper 22,,1,,2,22,0.85768944,,97.52,1,28MAR2025:03:10:16.887
+19964,9609,23,November 2024,Business | Business Concepts 2 Paper 23,,1,,2,22,0.78074050,,99.04,1,28MAR2025:03:10:16.887
+19964,9609,31,November 2024,Business | Business Decision-Making Paper 31,,1,,5,8,0.75538757,,98.48,1,28MAR2025:03:10:16.887
+19964,9609,32,November 2024,Business | Business Decision-Making Paper 32,,1,,5,8,0.71190624,,96.96,1,28MAR2025:03:10:16.887
+19964,9609,33,November 2024,Business | Business Decision-Making Paper 33,,1,,5,8,0.74111513,,100.00,1,28MAR2025:03:10:16.887
+19964,9609,41,November 2024,Business | Business Strategy Paper 41,,1,,2,8,0.73880060,,98.44,1,28MAR2025:03:10:16.887
+19964,9609,42,November 2024,Business | Business Strategy Paper 42,,1,,2,8,0.67716498,,97.00,1,28MAR2025:03:10:16.887
+19964,9609,43,November 2024,Business | Business Strategy Paper 43,,1,,2,8,0.60089129,,100.00,1,28MAR2025:03:10:16.887
+19964,9609,50,November 2024,Business | AS Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,9609,60,November 2024,Business | A2 Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,9618,11,November 2024,Computer Science | Theory Fundamentals 11,,1,,8,32,0.90593456,,98.20,1,28MAR2025:03:10:16.887
+19964,9618,12,November 2024,Computer Science | Theory Fundamentals 12,,1,,9,26,0.90978705,,97.77,1,28MAR2025:03:10:16.887
+19964,9618,13,November 2024,Computer Science | Theory Fundamentals 13,,1,,9,30,0.89678098,,99.40,1,28MAR2025:03:10:16.887
+19964,9618,21,November 2024,Computer Science | Problem Solving & Programming 21,,1,,8,22,0.88328732,,98.29,1,28MAR2025:03:10:16.887
+19964,9618,22,November 2024,Computer Science | Problem Solving & Programming 22,,1,,8,24,0.91331493,,96.96,1,28MAR2025:03:15:16.983
+19964,9618,23,November 2024,Computer Science | Problem Solving & Programming 23,,1,,8,20,0.90931697,,100.00,1,28MAR2025:03:10:16.887
+19964,9618,31,November 2024,Computer Science | Advanced Theory 31,,1,,11,25,0.90491285,,98.08,1,28MAR2025:03:10:16.887
+19964,9618,32,November 2024,Computer Science | Advanced Theory 32,,1,,11,27,0.91694526,,97.03,1,28MAR2025:03:10:16.887
+19964,9618,33,November 2024,Computer Science | Advanced Theory 33,,1,,11,25,0.88527649,,100.00,1,28MAR2025:03:10:16.887
+19964,9618,41,November 2024,Computer Science | Practical 41,,1,,3,26,0.93184240,,96.96,1,28MAR2025:03:10:16.887
+19964,9618,42,November 2024,Computer Science | Practical 42,,1,,3,24,0.95209077,,96.02,1,28MAR2025:03:10:16.887
+19964,9618,43,November 2024,Computer Science | Practical 43,,1,,3,26,0.94513280,,100.00,1,28MAR2025:03:10:16.887
+19964,9626,02,November 2024,Information Technology | Practical,,1,,18,43,0.94799962,,97.70,1,28MAR2025:03:10:16.887
+19964,9626,04,November 2024,Information Technology | Advanced Practical,,1,,4,29,0.91942313,,96.73,1,28MAR2025:03:10:16.887
+19964,9626,11,November 2024,Information Technology | Theory 11,,1,,11,18,0.76069251,,85.29,1,28MAR2025:03:10:16.887
+19964,9626,12,November 2024,Information Technology | Theory 12,,1,,10,14,0.72554706,,97.24,1,28MAR2025:03:10:16.887
+19964,9626,13,November 2024,Information Technology | Theory 13,,1,,11,15,0.78217765,,96.85,1,28MAR2025:03:10:16.887
+19964,9626,32,November 2024,Information Technology | Advanced Theory 32,,1,,10,17,0.81552717,,96.06,1,28MAR2025:03:10:16.887
+19964,9626,33,November 2024,Information Technology | Advanced Theory 33,,1,,11,23,0.79472126,,100.00,1,28MAR2025:03:10:16.887
+19964,9628,01,November 2024,China Studies in English | Case Studies,,1,,2,5,0.64160150,,98.53,1,28MAR2025:03:10:16.887
+19964,9628,02,November 2024,China Studies in English | Essays,1,1,,4,4,,0.64000000,97.06,1,28MAR2025:03:10:16.887
+19964,9631,01,November 2024,"Design and Textiles | Fibres, Fabrics and Design (AS written)",1,1,,4,23,,0.84000000,100.00,1,28MAR2025:03:10:16.887
+19964,9631,03,November 2024,Design and Textiles | Textile Applications & Technology (A/L written),1,1,,5,12,,0.86000000,100.00,1,28MAR2025:03:10:16.887
+19964,9649,01,November 2024,Further Mathematics | Paper 1,,1,,10,28,0.86364701,,91.67,1,28MAR2025:03:10:16.887
+19964,9649,02,November 2024,Further Mathematics | Paper 2,,1,,10,32,0.85410764,,90.69,1,28MAR2025:03:10:16.887
+19964,9676,02,November 2024,Urdu | Reading & Writing,,1,,5,25,0.78565813,,98.21,1,28MAR2025:03:10:16.887
+19964,9676,03,November 2024,Urdu | Essay,1,1,,5,10,,0.63000000,98.21,1,28MAR2025:03:10:16.887
+19964,9676,04,November 2024,Urdu | Texts,1,1,,12,12,,0.60000000,98.21,1,28MAR2025:03:10:16.887
+19964,9680,22,November 2024,Arabic | Reading and Writing 22,,1,,5,25,0.86976097,,100.00,1,28MAR2025:03:10:16.887
+19964,9680,32,November 2024,Arabic | Essay 32,1,1,,5,10,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,9680,42,November 2024,Arabic | Texts 42,1,1,,12,12,,0.41000000,100.00,1,28MAR2025:03:10:16.887
+19964,9686,02,November 2024,Urdu | Reading & Writing,,1,,5,25,0.71661293,,96.75,1,28MAR2025:03:10:16.887
+19964,9686,03,November 2024,Urdu | Essay,1,1,,5,10,,0.66000000,96.99,1,28MAR2025:03:10:16.887
+19964,9686,04,November 2024,Urdu | Texts,1,1,,12,12,,0.58000000,96.91,1,28MAR2025:03:10:16.887
+19964,9687,02,November 2024,Hindi | Reading & Writing,,1,,5,25,0.78037964,,99.57,1,28MAR2025:03:10:16.887
+19964,9687,03,November 2024,Hindi | Essay,1,1,,5,10,,0.80000000,99.57,1,28MAR2025:03:10:16.887
+19964,9687,04,November 2024,Hindi | Texts,1,1,,12,12,,0.71000000,99.13,1,28MAR2025:03:10:16.887
+19964,9688,02,November 2024,Marathi | Reading & Writing,,1,,5,26,0.57559748,,100.00,1,28MAR2025:03:10:16.887
+19964,9688,03,November 2024,Marathi | Essay,1,1,,5,10,,0.56000000,100.00,1,28MAR2025:03:10:16.887
+19964,9688,04,November 2024,Marathi | Texts,1,1,,12,12,,0.78000000,100.00,1,28MAR2025:03:10:16.887
+19964,9689,22,November 2024,Tamil | Reading & Writing 22,,1,,5,25,0.79417514,,100.00,1,28MAR2025:03:10:16.887
+19964,9689,32,November 2024,Tamil | Essay 32,1,1,,5,10,,0.83000000,100.00,1,28MAR2025:03:10:16.887
+19964,9689,42,November 2024,Tamil | Texts 42,1,1,,12,12,,0.79000000,100.00,1,28MAR2025:03:10:16.887
+19964,9690,02,November 2024,Telugu | Reading & Writing,,1,,5,25,0.84099513,,100.00,1,28MAR2025:03:10:16.887
+19964,9690,03,November 2024,Telugu | Essay,1,1,,5,10,,0.93000000,100.00,1,28MAR2025:03:10:16.887
+19964,9690,04,November 2024,Telugu | Texts,1,1,,12,12,,0.74000000,100.00,1,28MAR2025:03:10:16.887
+19964,9693,11,November 2024,Marine Science | AS Level Theory Paper 11,,1,,7,26,0.76249336,,94.20,1,28MAR2025:03:10:16.887
+19964,9693,12,November 2024,Marine Science | AS Level Theory Paper 12,,1,,7,26,0.88423107,,95.65,1,28MAR2025:03:10:16.887
+19964,9693,13,November 2024,Marine Science | AS Level Theory Paper 13,,1,,7,26,0.86070519,,100.00,1,28MAR2025:03:10:16.887
+19964,9693,21,November 2024,Marine Science | AS Level Data-Handling and Investigative Skills 21,,1,,7,34,0.68085911,,93.15,1,28MAR2025:03:10:16.887
+19964,9693,22,November 2024,Marine Science | AS Data-Handling & Investigative Skills 22,,1,,7,34,0.88100872,,97.10,1,28MAR2025:03:10:16.887
+19964,9693,23,November 2024,Marine Science | AS Data-Handling & Investigative Skills 23,,1,,7,34,0.79219707,,100.00,1,28MAR2025:03:10:16.887
+19964,9693,31,November 2024,Marine Science | A Level Theory Paper 31,,1,,7,23,0.76562508,,100.00,1,28MAR2025:03:10:16.887
+19964,9693,32,November 2024,Marine Science | A Level Theory Paper 32,,1,,7,23,0.86261839,,97.96,1,28MAR2025:03:10:16.887
+19964,9693,33,November 2024,Marine Science | A Level Theory Paper 33,,1,,7,23,0.78647308,,92.86,1,28MAR2025:03:10:16.887
+19964,9693,41,November 2024,Marine Science | A Level Data-handling & Investigative Skills 41,,1,,5,27,0.80728242,,100.00,1,28MAR2025:03:10:16.887
+19964,9693,42,November 2024,Marine Science | A Level Data-handling & Investigative Skills 42,,1,,5,27,0.85343075,,77.55,1,28MAR2025:03:10:16.887
+19964,9693,43,November 2024,Marine Science | A Level Data-handling & Investigative Skills 43,,1,,5,27,0.75959433,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,11,November 2024,Thinking Skills | Problem Solving 11,,1,,13,28,0.78264220,,93.36,1,28MAR2025:03:10:16.887
+19964,9694,12,November 2024,Thinking Skills | Problem Solving 12,,1,,13,28,0.92821224,,90.84,1,28MAR2025:03:10:16.887
+19964,9694,13,November 2024,Thinking Skills | Problem Solving 13,,1,,13,28,0.98199640,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,21,November 2024,Thinking Skills | Critical Thinking 21,,1,,5,15,0.53906921,,93.70,1,28MAR2025:03:10:16.887
+19964,9694,22,November 2024,Thinking Skills | Critical Thinking 22,,1,,5,16,0.81280088,,89.31,1,28MAR2025:03:10:16.887
+19964,9694,23,November 2024,Thinking Skills | Critical Thinking 23,,1,,5,16,0.92048696,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,31,November 2024,Thinking Skills | Problem Analysis and Solution 31,,1,,4,28,0.81711318,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,32,November 2024,Thinking Skills | Problem Analysis and Solution 32,,1,,4,28,0.82544181,,92.11,1,28MAR2025:03:10:16.887
+19964,9694,33,November 2024,Thinking Skills | Problem Analysis and Solution 33,,1,,4,28,0.97266560,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,41,November 2024,Thinking Skills | Applied Reasoning 41,,1,,4,9,0.44636236,,100.00,1,28MAR2025:03:10:16.887
+19964,9694,42,November 2024,Thinking Skills | Applied Reasoning 42,,1,,4,9,0.72924338,,92.11,1,28MAR2025:03:10:16.887
+19964,9694,43,November 2024,Thinking Skills | Applied Reasoning 43,,1,,4,9,0.78280867,,100.00,1,28MAR2025:03:10:16.887
+19964,9695,11,November 2024,Literature in English | Drama and Poetry 11,1,1,,16,16,,0.79000000,90.54,1,28MAR2025:03:10:16.887
+19964,9695,12,November 2024,Literature in English | Drama and Poetry 12,1,1,,16,16,,0.86000000,98.92,1,28MAR2025:03:10:16.887
+19964,9695,13,November 2024,Literature in English | Drama and Poetry 13,1,1,,16,16,,0.85000000,97.95,1,28MAR2025:03:10:16.887
+19964,9695,21,November 2024,Literature in English | Prose and Unseen 21,1,1,,10,10,,0.85000000,93.35,1,28MAR2025:03:10:16.887
+19964,9695,22,November 2024,Literature in English | Prose and Unseen 22,1,1,,10,10,,0.88000000,98.82,1,28MAR2025:03:15:04.670
+19964,9695,23,November 2024,Literature in English | Prose and Unseen 23,1,1,,10,10,,0.84000000,98.02,1,28MAR2025:03:15:08.827
+19964,9695,31,November 2024,Literature in English | Shakespeare and Drama 31,1,1,,10,10,,0.81000000,99.66,1,28MAR2025:03:10:16.887
+19964,9695,32,November 2024,Literature in English | Shakespeare and Drama 32,1,1,,10,10,,0.88000000,99.18,1,28MAR2025:03:10:16.887
+19964,9695,33,November 2024,Literature in English | Shakespeare and Drama 33,1,1,,10,10,,0.86000000,98.18,1,28MAR2025:03:10:16.887
+19964,9695,41,November 2024,Literature in English | Pre- and Post-1900 Poetry and Prose 41,1,1,,24,24,,0.79000000,99.66,1,28MAR2025:03:10:16.887
+19964,9695,42,November 2024,Literature in English | Pre- and Post-1900 Poetry and Prose 42,1,1,,24,24,,0.83000000,99.24,1,28MAR2025:03:10:16.887
+19964,9695,43,November 2024,Literature in English | Pre- and Post-1900 Poetry and Prose 43,1,1,,24,24,,0.83000000,97.98,1,28MAR2025:03:10:16.887
+19964,9696,11,November 2024,GEOGRAPHY | Core Physical Geography 11,1,1,,6,21,,0.80000000,47.52,1,28MAR2025:03:10:16.887
+19964,9696,12,November 2024,GEOGRAPHY | Core Physical Geography 12,1,1,,6,21,,0.78000000,99.03,1,28MAR2025:03:10:16.887
+19964,9696,13,November 2024,GEOGRAPHY | Core Physical Geography 13,1,1,,6,21,,0.75000000,94.44,1,28MAR2025:03:10:16.887
+19964,9696,21,November 2024,GEOGRAPHY | Core Human Geography 21,1,1,,6,20,,0.80000000,89.11,1,28MAR2025:03:10:16.887
+19964,9696,22,November 2024,GEOGRAPHY | Core Human Geography 22,1,1,,6,21,,0.69000000,98.99,1,28MAR2025:03:10:16.887
+19964,9696,23,November 2024,GEOGRAPHY | Core Human Geography 23,1,1,,6,21,,0.75000000,94.29,1,28MAR2025:03:10:16.887
+19964,9696,31,November 2024,GEOGRAPHY | Advanced Physical Geography Options 31,1,1,,12,16,,,100.00,1,28MAR2025:03:10:16.887
+19964,9696,32,November 2024,GEOGRAPHY | Advanced Physical Geography Options 32,1,1,,12,16,,0.63000000,99.55,1,28MAR2025:03:10:16.887
+19964,9696,33,November 2024,GEOGRAPHY | Advanced Physical Geography Options 33,1,1,,12,16,,0.75000000,97.85,1,28MAR2025:03:10:16.887
+19964,9696,41,November 2024,GEOGRAPHY | Advanced Human Geography Options 41,1,1,,12,16,,,100.00,1,28MAR2025:03:10:16.887
+19964,9696,42,November 2024,GEOGRAPHY | Advanced Human Geography Options 42,1,1,,12,16,,0.60000000,99.16,1,28MAR2025:03:10:16.887
+19964,9696,43,November 2024,GEOGRAPHY | Advanced Human Geography Options 43,1,1,,12,16,,0.70000000,97.85,1,28MAR2025:03:10:16.887
+19964,9699,11,November 2024,Sociology | Socialisation 11,1,1,,5,11,,0.85000000,94.90,1,28MAR2025:03:10:16.887
+19964,9699,12,November 2024,Sociology | Socialisation 12,1,1,,5,11,,0.83000000,96.64,1,28MAR2025:03:10:16.887
+19964,9699,13,November 2024,Sociology | Socialisation 13,1,1,,5,11,,0.86000000,93.33,1,28MAR2025:03:10:16.887
+19964,9699,21,November 2024,Sociology | The Family 21,1,1,,5,11,,0.86000000,97.52,1,28MAR2025:03:10:16.887
+19964,9699,22,November 2024,Sociology | The Family 22,1,1,,5,11,,0.84000000,96.43,1,28MAR2025:03:14:55.843
+19964,9699,23,November 2024,Sociology | The Family 23,1,1,,5,11,,0.87000000,93.33,1,28MAR2025:03:10:16.887
+19964,9699,31,November 2024,Sociology | Education 31,,1,,4,6,0.79130305,,99.01,1,28MAR2025:03:10:16.887
+19964,9699,32,November 2024,Sociology | Education 32,,1,,4,6,0.84230065,,97.56,1,28MAR2025:03:15:12.343
+19964,9699,33,November 2024,Sociology | Education 33,,1,,4,6,,,66.67,1,28MAR2025:03:10:16.887
+19964,9699,41,November 2024,"Sociology | Globalisation, Media, Religion 41",1,1,,6,18,,0.91000000,99.26,1,28MAR2025:03:10:16.887
+19964,9699,42,November 2024,"Sociology | Globalisation, Media, Religion 42",1,1,,6,18,,0.91000000,96.96,1,28MAR2025:03:10:16.887
+19964,9699,43,November 2024,"Sociology | Globalisation, Media, Religion 43",1,1,,6,18,,,100.00,1,28MAR2025:03:10:16.887
+19964,9700,21,November 2024,Biology | AS Level Structured Questions 21,,1,,6,28,0.91732018,,100.00,1,28MAR2025:03:10:16.887
+19964,9700,22,November 2024,Biology | AS Level Structured Questions 22,,1,,6,28,0.89879987,,98.21,1,28MAR2025:03:10:16.887
+19964,9700,23,November 2024,Biology | AS Level Structured Questions 23,,1,,6,24,0.88913825,,90.08,1,28MAR2025:03:10:16.887
+19964,9700,41,November 2024,Biology | A Level Structured Questions 41,,1,,10,35,0.94455638,,100.00,1,28MAR2025:03:10:16.887
+19964,9700,42,November 2024,Biology | A Level Structured Questions 42,,1,,10,36,0.92296412,,97.59,1,28MAR2025:03:10:16.887
+19964,9700,43,November 2024,Biology | A Level Structured Questions 43,,1,,10,35,0.91541139,,99.21,1,28MAR2025:03:10:16.887
+19964,9700,51,November 2024,"Biology | Planning, Analysis and Evaluation 51",,1,,2,13,0.58184306,,100.00,1,28MAR2025:03:10:16.887
+19964,9700,52,November 2024,"Biology | Planning, Analysis and Evaluation 52",,1,,2,11,0.76170121,,97.67,1,28MAR2025:03:10:16.887
+19964,9700,53,November 2024,"Biology | Planning, Analysis and Evaluation 53",,1,,2,13,0.66967432,,99.21,1,28MAR2025:03:10:16.887
+19964,9701,21,November 2024,Chemistry | AS Level Structured Questions 21,,1,,4,44,0.95584056,,90.48,1,28MAR2025:03:10:16.887
+19964,9701,22,November 2024,Chemistry | AS Level Structured Questions 22,,1,,4,40,0.92700359,,98.65,1,28MAR2025:03:10:16.887
+19964,9701,23,November 2024,Chemistry | AS Level Structured Questions 23,,1,,4,44,0.93298881,,91.43,1,28MAR2025:03:10:16.887
+19964,9701,41,November 2024,Chemistry | A Level Structured Questions 41,,1,,8,64,0.95571491,,100.00,1,28MAR2025:03:10:16.887
+19964,9701,42,November 2024,Chemistry | A Level Structured Questions 42,,1,,8,64,0.96772856,,98.15,1,28MAR2025:03:15:23.250
+19964,9701,43,November 2024,Chemistry | A Level Structured Questions 43,,1,,8,64,0.96218842,,98.93,1,28MAR2025:03:10:16.887
+19964,9701,51,November 2024,"Chemistry | Planning, Analysis and Evaluation 51",,1,,2,23,0.75186800,,100.00,1,28MAR2025:03:10:16.887
+19964,9701,52,November 2024,"Chemistry | Planning, Analysis and Evaluation 52",,1,,2,21,0.82714836,,98.39,1,28MAR2025:03:10:16.887
+19964,9701,53,November 2024,"Chemistry | Planning, Analysis and Evaluation 53",,1,,2,23,0.78860333,,99.26,1,28MAR2025:03:10:16.887
+19964,9702,21,November 2024,Physics | AS Level Structured Questions 21,,1,,7,35,0.93841396,,97.14,1,28MAR2025:03:10:16.887
+19964,9702,22,November 2024,Physics | AS Level Structured Questions 22,,1,,6,32,0.92209928,,98.26,1,28MAR2025:03:10:16.887
+19964,9702,23,November 2024,Physics | AS Level Structured Questions 23,,1,,7,33,0.92311984,,93.50,1,28MAR2025:03:10:16.887
+19964,9702,41,November 2024,Physics | A Level Structured Questions 41,,1,,10,47,0.94283622,,100.00,1,28MAR2025:03:10:16.887
+19964,9702,42,November 2024,Physics | A Level Structured Questions 42,,1,,10,51,0.95541878,,98.04,1,28MAR2025:03:14:52.953
+19964,9702,43,November 2024,Physics | A Level Structured Questions 43,,1,,10,47,0.93889844,,97.25,1,28MAR2025:03:10:16.887
+19964,9702,51,November 2024,"Physics | Planning, Analysis and Evaluation 51",,1,,2,13,0.85640942,,100.00,1,28MAR2025:03:10:16.887
+19964,9702,52,November 2024,"Physics | Planning, Analysis and Evaluation 52",,1,,2,13,0.85916721,,97.78,1,28MAR2025:03:10:16.887
+19964,9702,53,November 2024,"Physics | Planning, Analysis and Evaluation 53",,1,,2,13,0.78876391,,97.29,1,28MAR2025:03:10:16.887
+19964,9706,21,November 2024,Accounting | AS Level Fundamentals of Accounting 21,,1,,5,22,0.86063926,,98.82,1,28MAR2025:03:10:16.887
+19964,9706,22,November 2024,Accounting | AS Level Fundamentals of Accounting 22,,1,,4,20,0.87984391,,98.34,1,28MAR2025:03:10:16.887
+19964,9706,23,November 2024,Accounting | AS Level Fundamentals of Accounting 23,,1,,4,21,0.86644455,,98.70,1,28MAR2025:03:10:16.887
+19964,9706,31,November 2024,Accounting | A Level Financial Accounting 31,,1,,3,18,0.78184055,,99.10,1,28MAR2025:03:10:16.887
+19964,9706,32,November 2024,Accounting | A Level Financial Accounting 32,,1,,3,12,0.80764183,,98.51,1,28MAR2025:03:10:16.887
+19964,9706,33,November 2024,Accounting | A Level Financial Accounting 33,,1,,3,17,0.83182563,,98.59,1,28MAR2025:03:10:16.887
+19964,9706,41,November 2024,Accounting | A Level Cost and Management Accounting 41,,1,,2,10,0.83604631,,99.21,1,28MAR2025:03:10:16.887
+19964,9706,42,November 2024,Accounting | A Level Cost and Management Accounting 42,,1,,2,11,0.83758203,,98.31,1,28MAR2025:03:10:16.887
+19964,9706,43,November 2024,Accounting | A Level Cost and Management Accounting 43,,1,,2,10,0.65448825,,100.00,1,28MAR2025:03:10:16.887
+19964,9708,21,November 2024,Economics | AS Level Data Response and Essays 21,1,1,,5,17,,0.81000000,98.34,1,28MAR2025:03:10:16.887
+19964,9708,22,November 2024,Economics | AS Level Data Response and Essays 22,1,1,,5,17,,0.82000000,97.28,1,28MAR2025:03:10:16.887
+19964,9708,23,November 2024,Economics | AS Level Data Response and Essays 23,1,1,,5,17,,0.84000000,97.91,1,28MAR2025:03:10:16.887
+19964,9708,41,November 2024,Economics | A Level Data Response and Essays 41,1,1,,5,12,,0.78000000,98.89,1,28MAR2025:03:10:16.887
+19964,9708,42,November 2024,Economics | A Level Data Response and Essays 42,1,1,,5,12,,0.81000000,97.45,1,28MAR2025:03:10:16.887
+19964,9708,43,November 2024,Economics | A Level Data Response and Essays 43,1,1,,5,12,,0.83000000,98.45,1,28MAR2025:03:10:16.887
+19964,9709,11,November 2024,Mathematics | Pure Mathematics 1 (11),,1,,11,20,0.93032955,,96.89,1,28MAR2025:03:10:16.887
+19964,9709,12,November 2024,Mathematics | Pure Mathematics 1 (12),,1,,10,24,0.91027009,,97.58,1,28MAR2025:03:10:16.887
+19964,9709,13,November 2024,Mathematics | Pure Mathematics 1 (13),,1,,11,21,0.90163280,,96.05,1,28MAR2025:03:15:08.420
+19964,9709,21,November 2024,Mathematics | Pure Mathematics 2 (21),,1,,7,15,0.92510426,,94.00,1,28MAR2025:03:10:16.887
+19964,9709,22,November 2024,Mathematics | Pure Mathematics 2 (22),,1,,7,16,0.91612486,,98.16,1,28MAR2025:03:10:16.887
+19964,9709,23,November 2024,Mathematics | Pure Mathematics 2 (23),,1,,7,15,0.88912990,,100.00,1,28MAR2025:03:10:16.887
+19964,9709,31,November 2024,Mathematics | Pure Mathematics 3 (31),,1,,10,21,0.92514959,,98.53,1,28MAR2025:03:10:16.887
+19964,9709,32,November 2024,Mathematics | Pure Mathematics 3 (32),,1,,11,21,0.91550844,,97.60,1,28MAR2025:03:10:16.887
+19964,9709,33,November 2024,Mathematics | Pure Mathematics 3 (33),,1,,11,23,0.91340354,,96.74,1,28MAR2025:03:10:16.887
+19964,9709,41,November 2024,Mathematics | Mechanics (41),,1,,8,15,0.87316681,,98.73,1,28MAR2025:03:10:16.887
+19964,9709,42,November 2024,Mathematics | Mechanics (42),,1,,7,14,0.90893079,,95.68,1,28MAR2025:03:10:16.887
+19964,9709,43,November 2024,Mathematics | Mechanics (43),,1,,7,13,0.89470957,,96.48,1,28MAR2025:03:10:16.887
+19964,9709,51,November 2024,Mathematics | Probability & Statistics 1 (51),,1,,7,16,0.90171060,,56.91,1,28MAR2025:03:10:16.887
+19964,9709,52,November 2024,Mathematics | Probability & Statistics 1 (52),,1,,7,19,0.89887713,,97.59,1,28MAR2025:03:10:16.887
+19964,9709,53,November 2024,Mathematics | Probability & Statistics 1 (53),,1,,6,16,0.87238381,,95.37,1,28MAR2025:03:10:16.887
+19964,9709,61,November 2024,Mathematics | Probability & Statistics 2 (61),,1,,7,16,0.89893184,,87.50,1,28MAR2025:03:10:16.887
+19964,9709,62,November 2024,Mathematics | Probability & Statistics 2 (62),,1,,7,18,0.90457914,,98.62,1,28MAR2025:03:10:16.887
+19964,9709,63,November 2024,Mathematics | Probability & Statistics 2 (63),,1,,7,16,0.89082666,,98.94,1,28MAR2025:03:10:16.887
+19964,9717,22,November 2024,German | Reading & Writing 22,,1,,5,25,0.89405859,,100.00,1,28MAR2025:03:10:16.887
+19964,9717,23,November 2024,German | Reading & Writing 23,,1,,5,26,0.77037037,,100.00,1,28MAR2025:03:10:16.887
+19964,9717,32,November 2024,German | Essay 32,1,1,,5,10,,0.73000000,100.00,1,28MAR2025:03:10:16.887
+19964,9717,33,November 2024,German | Essay 33,1,1,,5,10,,,100.00,1,28MAR2025:03:10:16.887
+19964,9717,42,November 2024,German | Texts 42,1,1,,12,12,,0.62000000,100.00,1,28MAR2025:03:10:16.887
+19964,9717,43,November 2024,German | Texts 43,1,1,,12,12,,,100.00,1,28MAR2025:03:10:16.887
+19964,9729,02,November 2024,Chemistry | Structured Questions,,1,,6,45,0.90211901,,98.46,1,28MAR2025:03:10:16.887
+19964,9729,03,November 2024,Chemistry | Free Response Questions,1,1,,5,48,,0.90000000,98.42,1,28MAR2025:03:10:16.887
+19964,9735,02,November 2024,French | Reading and Writing,,1,,5,26,0.65938495,,100.00,1,28MAR2025:03:10:16.887
+19964,9735,03,November 2024,French | Essay,1,1,,5,10,,0.50000000,100.00,1,28MAR2025:03:10:16.887
+19964,9735,05,November 2024,French | Listening,,1,,32,42,0.67766275,,100.00,1,28MAR2025:03:10:16.887
+19964,9736,02,November 2024,German | Reading and Writing,,1,,5,26,0.52989819,,100.00,1,28MAR2025:03:10:16.887
+19964,9736,03,November 2024,German | Essay,1,1,,5,10,,0.56000000,100.00,1,28MAR2025:03:10:16.887
+19964,9736,05,November 2024,German | Listening,,1,,34,42,0.67175923,,100.00,1,28MAR2025:03:10:16.887
+19964,9737,02,November 2024,Japanese | Reading and Writing,,1,,5,27,0.77290425,,100.00,1,28MAR2025:03:10:16.887
+19964,9737,03,November 2024,Japanese | Essay,1,1,,5,10,,0.83000000,100.00,1,28MAR2025:03:10:16.887
+19964,9737,05,November 2024,Japanese | Listening,,1,,34,34,0.81950253,,100.00,1,28MAR2025:03:10:16.887
+19964,9744,02,November 2024,BIOLOGY | Structured Questions,,1,,11,37,0.85026256,,98.44,1,28MAR2025:03:10:16.887
+19964,9744,03,November 2024,BIOLOGY | Long Structured and Free-Response Questions,1,1,,5,22,,0.71000000,98.47,1,28MAR2025:03:10:16.887
+19964,9749,02,November 2024,Physics | Structured Questions,,1,,8,43,0.89310682,,97.95,1,28MAR2025:03:10:16.887
+19964,9749,03,November 2024,Physics | Longer Structured Questions,1,1,,9,39,,0.87000000,98.10,1,28MAR2025:03:10:16.887
+19964,9750,01,November 2024,Art | Study of Visual Arts (SOVA),1,1,,6,14,,0.66000000,97.50,1,28MAR2025:03:10:16.887
+19964,9751,01,November 2024,GEOGRAPHY | Structured Essay Questions,1,1,,6,12,,0.79000000,90.57,1,28MAR2025:03:10:16.887
+19964,9751,02,November 2024,GEOGRAPHY | Data Response Questions,,1,,4,20,0.71958342,,90.57,1,28MAR2025:03:10:16.887
+19964,9752,01,November 2024,History | Shaping the International Order (1945-2000),1,1,,5,6,,0.51000000,91.41,1,28MAR2025:03:10:16.887
+19964,9752,02,November 2024,History | Making of Independent Southeast Asia (Independence-2000),1,1,,5,6,,0.60000000,89.84,1,28MAR2025:03:10:16.887
+19964,9753,11,November 2024,Music | Music Studies (Asian Music),1,1,,3,36,,0.33000000,100.00,1,28MAR2025:03:10:16.887
+19964,9753,12,November 2024,"Music | Music Studies (Western Art Music, Jazz, Essay)",1,1,,5,5,,0.77000000,100.00,1,28MAR2025:03:10:16.887
+19964,9758,01,November 2024,Mathematics | Paper 1,,1,,12,35,0.90197453,,98.30,1,28MAR2025:03:10:16.887
+19964,9758,02,November 2024,Mathematics | Paper 2,,1,,11,50,0.88663436,,98.15,1,28MAR2025:03:10:16.887
+19964,9759,01,November 2024,Knowledge & Inquiry | Essay,1,1,,6,6,,0.80000000,100.00,1,28MAR2025:03:10:16.887
+19964,9759,02,November 2024,Knowledge & Inquiry | Critical Thinking,1,1,,4,4,,0.63000000,100.00,1,28MAR2025:03:10:16.887
+19964,9809,01,November 2024,Economics | Paper 1,1,1,,11,16,,0.56000000,93.51,1,28MAR2025:03:10:16.887
+19964,9813,01,November 2024,Chemistry | Paper 1,1,1,,6,50,,0.82000000,94.88,1,28MAR2025:03:10:16.887
+19964,9814,01,November 2024,Physics | Paper 1,1,1,,9,58,,0.86000000,97.06,1,28MAR2025:03:10:16.887
+19964,9816,01,November 2024,Biology | Paper 1,1,1,,4,12,,0.46000000,95.96,1,28MAR2025:03:10:16.887
+19964,9818,01,November 2024,Art | Theory of Art,1,1,,4,4,,0.48000000,100.00,1,28MAR2025:03:10:16.887
+19964,9820,01,November 2024,Mathematics | Paper 1,,1,,8,31,0.90488183,,97.28,1,28MAR2025:03:10:16.887
+19964,9844,21,November 2024,Spanish Language and Literature | Writing 21,1,1,,3,9,,0.91000000,97.48,1,28MAR2025:03:10:16.887
+19964,9844,22,November 2024,Spanish Language and Literature | Writing 22,1,1,,3,9,,0.97000000,70.83,1,28MAR2025:03:10:16.887
+19964,9844,23,November 2024,Spanish Language and Literature | Writing 23,1,1,,3,9,,0.97000000,95.45,1,28MAR2025:03:10:16.887
+19964,9844,31,November 2024,Spanish Language and Literature | Literature 31,1,1,,9,9,,0.78000000,98.11,1,28MAR2025:03:10:16.887
+19964,9844,32,November 2024,Spanish Language and Literature | Literature 32,1,1,,9,9,,0.40000000,100.00,1,28MAR2025:03:10:16.887
+19964,9844,33,November 2024,Spanish Language and Literature | Literature 33,1,1,,9,9,,0.70000000,95.45,1,28MAR2025:03:10:16.887
+19964,9868,21,November 2024,Chinese Language and Literature | Writing 21,1,1,,3,9,,,100.00,1,28MAR2025:03:10:16.887
+19964,9868,22,November 2024,Chinese Language and Literature | Writing 22,1,1,,3,9,,0.91000000,95.38,1,28MAR2025:03:10:16.887
+19964,9868,23,November 2024,Chinese Language and Literature | Writing 23,1,1,,3,9,,0.80000000,96.65,1,28MAR2025:03:10:16.887
+19964,9868,31,November 2024,Chinese Language and Literature | Literature 31,1,1,,9,9,,,100.00,1,28MAR2025:03:10:16.887
+19964,9868,32,November 2024,Chinese Language and Literature | Literature 32,1,1,,9,9,,0.66000000,93.85,1,28MAR2025:03:10:16.887
+19964,9868,33,November 2024,Chinese Language and Literature | Literature 33,1,1,,9,9,,0.75000000,95.83,1,28MAR2025:03:10:16.887
+19964,9980,01,November 2024,Cambridge International Project | Project,,1,,3,5,0.80541613,,93.01,1,28MAR2025:03:10:16.887
+19964,9990,11,November 2024,"Psychology | Approaches, Issues and Debates 11",,1,,10,18,0.84257736,,91.06,1,28MAR2025:03:10:16.887
+19964,9990,12,November 2024,"Psychology | Approaches, Issues and Debates 12",,1,,10,17,0.86428081,,96.29,1,28MAR2025:03:10:16.887
+19964,9990,13,November 2024,"Psychology | Approaches, Issues and Debates 13",,1,,10,17,0.82432579,,99.43,1,28MAR2025:03:10:16.887
+19964,9990,21,November 2024,Psychology | Research Methods 21,,1,,9,25,0.83957283,,92.31,1,28MAR2025:03:10:16.887
+19964,9990,22,November 2024,Psychology | Research Methods 22,,1,,9,25,0.84424890,,94.19,1,28MAR2025:03:10:16.887
+19964,9990,23,November 2024,Psychology | Research Methods 23,,1,,10,23,0.79771548,,99.43,1,28MAR2025:03:10:16.887
+19964,9990,31,November 2024,"Psychology | Specialist Options: Approaches, Issues and Debates 31",1,1,,16,29,,0.83000000,97.41,1,28MAR2025:03:10:16.887
+19964,9990,32,November 2024,"Psychology | Specialist Options: Approaches, Issues and Debates 32",1,1,,16,28,,0.87000000,94.03,1,28MAR2025:03:10:16.887
+19964,9990,33,November 2024,"Psychology | Specialist Options: Approaches, Issues and Debates 33",1,1,,16,29,,0.81000000,100.00,1,28MAR2025:03:10:16.887
+19964,9990,41,November 2024,Psychology | Specialist Options: Application and Research Methods 41,1,1,,12,52,,0.87000000,93.79,1,28MAR2025:03:10:16.887
+19964,9990,42,November 2024,Psychology | Specialist Options: Application and Research Methods 42,1,1,,12,51,,0.83000000,95.33,1,28MAR2025:03:10:16.887
+19964,9990,43,November 2024,Psychology | Specialist Options: Application and Research Methods 43,1,1,,12,52,,0.84000000,100.00,1,28MAR2025:03:10:16.887
+19964,9990,50,November 2024,Psychology | AS Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
+19964,9990,60,November 2024,Psychology | A2 Portfolio of Evidence,,1,,1,3,,,100.00,1,28MAR2025:03:10:16.887
