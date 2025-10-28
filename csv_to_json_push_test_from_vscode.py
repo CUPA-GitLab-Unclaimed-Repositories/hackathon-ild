@@ -1,4 +1,5 @@
 # code to convert csv to json
+# requires pandas
 import pandas as pd
 def csv_to_json(csv_file, json_file):
     df = pd.read_csv(csv_file)
